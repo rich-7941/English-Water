@@ -8,6 +8,12 @@
   image5: "/images/water-filters.jpg"
   image6: "/images/water-quality.jpg"
   image7: "/images/water-testing.jpg"
+  image8: "/images/high-water-bill.jpg"
+  image9: "/images/high-water-bill.jpg"
+  image10: "/images/developers.jpg"
+  image11: "/images/save-water.jpg"
+  image12: "/images/shared-water-supply.jpg"
+  image13: "/images/frozen-or-burst-pipes.jpg"
 ---
 
 

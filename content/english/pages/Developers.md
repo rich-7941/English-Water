@@ -2,7 +2,7 @@
 title: "Developers"
 ---
 
-{{< image src="images/low-water-pressure.jpg" alt="Water Sector Overview" >}}
+{{< image src="images/developers.jpg" alt="Water Sector Overview" >}}
 ## Water sector overview
 
 Every day, over 50 million household and non-household consumers in England and Wales receive good quality water, sanitation, and drainage services. These services are provided by privately-owned companies in England and Wales.
