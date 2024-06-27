@@ -1,0 +1,135 @@
+############# English navigation ##############
+
+# main menu
+
+[[main]]
+weight = 1
+name = "Your water supply"
+
+[[main]]
+parent = "Your water supply"
+name = "My water supplier"
+pageRef = "/My-water-supplier"
+
+[[main]]
+parent = "Your water supply"
+name = "Water supplier grants"
+pageRef = "/Water-supplier-grants"
+
+[[main]]
+parent = "Your water supply"
+name = "Shared water supplies"
+pageRef = "/Shared-water-supplies"
+
+[[main]]
+parent = "Your water supply"
+name = "Water pump"
+pageRef = "/Water-pump"
+
+[[main]]
+parent = "Your water supply"
+name = "Water filters"
+pageRef = "/Water-filters"
+
+[[main]]
+parent = "Your water supply"
+name = "Lead pipes"
+pageRef = "/Lead-pipes"
+
+
+[[main]]
+weight = 2
+name = "Help and advice"
+
+[[main]]
+parent = "Help and advice"
+name = "Water quality"
+pageRef = "/water-quality"
+
+[[main]]
+parent = "Help and advice"
+name = "Water testing"
+pageRef = "/water-testing"
+
+[[main]]
+parent = "Help and advice"
+name = "High water bill"
+pageRef = "/High-water-bill"
+
+[[main]]
+parent = "Help and advice"
+name = "Save water"
+pageRef = "/Save-water"
+
+[[main]]
+parent = "Help and advice"
+name = "Developers"
+pageRef = "/Developers"
+
+[[main]]
+parent = "Help and advice"
+name = "Approved plumbers"
+pageRef = "/Approved-plumbers"
+
+[[main]]
+parent = "Help and advice"
+name = "Insurance claim"
+pageRef = "/insurance-claim"
+
+
+[[main]]
+weight = 3
+name = "Emergencies"
+
+[[main]]
+parent = "Emergencies"
+name = "Water leak"
+pageRef = "/water-leak"
+
+[[main]]
+parent = "Emergencies"
+name = "Low water pressure"
+pageRef = "/low-water-pressure"
+
+[[main]]
+parent = "Emergencies"
+name = "No water"
+pageRef = "/no-water"
+
+[[main]]
+parent = "Emergencies"
+name = "Frozen or burst pipes"
+pageRef = "/Frozen-burst-pipes"
+
+[[main]]
+parent = "Emergencies"
+name = "Turning your water on or off"
+pageRef = "/Turning-water-on-off"
+
+
+[[main]]
+name = "About"
+pageRef = "/about"
+weight = 4
+
+[[main]]
+name = "Privacy Policy"
+pageRef = "/privacy-policy"
+weight = 5
+
+
+# footer menu
+[[footer]]
+name = "About"
+pageRef = "/about"
+weight = 1
+
+[[footer]]
+name = "Elements"
+pageRef = "/elements"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+pageRef = "/privacy-policy"
+weight = 3

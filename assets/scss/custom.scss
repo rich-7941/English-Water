@@ -1,0 +1,219 @@
+// Add your own custom styles here
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: Poppins, sans-serif;
+    scroll-behavior: smooth;
+}
+
+:root {
+    --black-color: #1e1c1c;
+    --white-color: #f7f7f7;
+    --blue-color: #003595;
+    --lightBlue-color: #0069d9;
+}
+
+
+header {
+    background: var(--white-color) !important;
+    border-bottom: 2px solid var(--blue-color) !important;
+}
+
+header .navbar ul li span {
+    color: var(--blue-color) !important;
+}
+
+header .navbar ul li a {
+    color: var(--blue-color) !important;
+}
+
+header .navbar ul li a:hover {
+    color: var(--lightBlue-color) !important;
+}
+
+
+.improving {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 23rem;
+    background: linear-gradient(0deg, rgba(185, 217, 236, 1) 53%, rgba(210, 229, 243, 1) 100%);
+    color: var(--blue-color);
+
+    h2 {
+        max-width: 25rem;
+        text-align: center;
+    }
+}
+
+.featured {
+    padding: 3rem;
+    max-width: 85rem;
+    margin: auto;
+
+    h1 {
+        text-align: center;
+        padding-top: 1rem;
+        color: var(--black-color);
+        padding-bottom: 1rem;
+    }
+
+    .boxes {
+        display: flex;
+        justify-content: center;
+        row-gap: 1rem;
+        align-items: center;
+        flex-wrap: wrap;
+
+        .box {
+            width: 25rem;
+            min-height: 30rem;
+            padding: 1rem;
+            overflow: hidden;
+
+            img {
+                object-fit: cover;
+                height: 19rem;
+                border-radius: .2rem;
+                padding-bottom: .7rem;
+            }
+
+            a {
+                text-decoration: none;
+                line-height: 1.9rem;
+                font-weight: 600;
+                color: var(--black-color);
+                transition: 200ms all;
+
+                &:hover {
+                    color: var(--lightBlue-color);
+                    text-decoration: underline;
+                }
+            }
+
+            p {
+                padding-top: .7rem;
+            }
+        }
+    }
+}
+
+.blog {
+    max-width: 80rem;
+    padding: 3rem;
+    margin: 0 auto;
+
+    img {
+        width: 100%;
+        height: 20rem;
+        border-radius: 1rem;
+        object-fit: cover;
+        margin-bottom: 2rem;
+    }
+
+    .main {
+        h1 {
+            padding-bottom: .5rem;
+        }
+
+        ul {
+            padding-left: 2rem;
+
+            li {
+                line-height: 2rem;
+            }
+        }
+
+        a {
+            color: var(--lightBlue-color);
+        }
+    }
+}
+
+@media screen and (max-width:500px) {
+    .blog {
+        padding: 3rem 1rem;
+    }
+}
+
+footer {
+    background-color: var(--blue-color);
+    color: var(--white-color);
+    margin: auto;
+    padding: 3rem;
+
+    .main {
+        display: flex;
+        justify-content: space-around;
+
+        .quickLinks {
+            h2 {
+                font-size: 1.2rem;
+                padding-bottom: 1rem;
+            }
+
+            ul {
+                list-style: none;
+
+                li {
+                    padding-bottom: .4rem;
+
+                    a {
+                        text-decoration: none;
+                        color: var(--white-color);
+
+                        &:hover {
+                            text-decoration: underline;
+                        }
+                    }
+                }
+            }
+        }
+
+        .icons {
+            h2 {
+                font-size: 1.5rem;
+                padding-bottom: 1rem;
+            }
+
+            i {
+                color: var(--white-color);
+                font-size: 1.6rem;
+                margin-right: 1rem;
+            }
+        }
+    }
+}
+
+#divider2 {
+    width: 100%;
+    height: .1rem;
+    background-color: var(--lightBlue-color);
+}
+
+.footerBottom {
+    p {
+        color: var(--white-color);
+        background-color: var(--blue-color);
+        padding: 1rem;
+        text-align: center;
+    }
+}
+
+.nav-dropdown-list {
+    min-width: 210px !important;
+}
+
+@media (min-width: 1024px) {
+    .nav-dropdown-list {
+        visibility: hidden;
+        position: absolute;
+        display: block;
+        left: -3rem !important;
+        opacity: 0;
+    }
+}
