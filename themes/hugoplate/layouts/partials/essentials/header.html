@@ -2,14 +2,14 @@
   <div class="main">
     <a href="/">
       {{ partial "image" (dict "Src" .Params.image19 "Context" .Page "Alt" .Title "Class" "" "Size"
-      "220x60")
+      "200x50")
       }}
     </a>
     <ul>
       <li id="onclickAboutNav">Your water supply<i class="fa-solid fa-chevron-down"></i></li>
       <li id="onclickRegulatedNav">Help and advice<i class="fa-solid fa-chevron-down"></i></li>
       <li id="onclickResidedntailNav">Emergencies<i class="fa-solid fa-chevron-down"></i></li>
-      <li><a href="">About Us</a></li>
+      <li><a href="about">About Us</a></li>
     </ul>
     <i class="fa-solid fa-bars" id="navResBar"></i>
   </div>
@@ -112,65 +112,6 @@
   </div>
 </div>
 
-<!-- for investor -->
-<div class="navClick" id="ShowInvestor">
-  <div class="main">
-    <div class="f">
-      <h1>Investor</h1>
-      <p>In this section of the website you can find information about water and sewerage supply to
-        businesses, charities and public sector organisations.</p>
-    </div>
-    <div class="s"></div>
-    <div class="links">
-
-      <div class="t">
-        <ul>
-          <li><a href="">Your water bill</a></li>
-          <li><a href="">Supply and standards</a></li>
-          <li><a href="">Surface water drainage</a></li>
-          <li><a href="">Becoming a self-supply licensee</a></li>
-          <li><a href="">Reselling water</a></li>
-        </ul>
-      </div>
-      <div class="fo">
-        <ul>
-          <li><a href="">Your water bill</a></li>
-          <li><a href="">Developers</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- for Bussniess -->
-<div class="navClick" id="showBussniess">
-  <div class="main">
-    <div class="f">
-      <h1>Bussniess Customer</h1>
-      <p>In this section of the website you can find information about water and sewerage supply to
-        businesses, charities and public sector organisations.</p>
-    </div>
-    <div class="s"></div>
-    <div class="links">
-
-      <div class="t">
-        <ul>
-          <li><a href="">Your water bill</a></li>
-          <li><a href="">Supply and standards</a></li>
-          <li><a href="">Surface water drainage</a></li>
-          <li><a href="">Becoming a self-supply licensee</a></li>
-          <li><a href="">Reselling water</a></li>
-        </ul>
-      </div>
-      <div class="fo">
-        <ul>
-          <li><a href="">Your water bill</a></li>
-          <li><a href="">Developers</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
 <div id="divider"></div>
 
 <!-- ========= -->
@@ -183,130 +124,83 @@
 <div class="resNavbar" id="resNavbar">
   <div class="main">
     <div class="f" id="navClickResHome">
-      <p>Home</p>
+      <p>Your water supply</p>
       <i class="fa-solid fa-sort-down"></i>
     </div>
 
     <div class="navClickRes " id="navClickResShow">
       <div class="main">
-        <h1>Bussniess Customer</h1>
-        <p>In this section of the website you can find information about water and sewerage supply to
-          businesses, charities and public sector organisations.</p>
+        <h1>Your water supply</h1>
+        <p>In this section of the website, you can find information about your water supplier, available grants, shared
+          water supplies, water pumps, water filters, and lead pipe replacement.</p>
         <div class="sec"></div>
         <div class="links">
           <ul>
-            <li><a href="">Your water bill</a></li>
-            <li><a href="">Supply and standards</a></li>
-            <li><a href="">Surface water drainage</a></li>
-            <li><a href="">Becoming a self-supply licensee</a></li>
-            <li><a href="">Reselling water</a></li>
+            <li><a href="my-water-supplier">My water supplier
+              </a></li>
+            <li><a href="water-supplier-grants">Water supplier grants</a></li>
+            <li><a href="shared-water-supplies">Shared water supplies</a></li>
+            <li><a href="water-pump">Water pump</a></li>
+            <li><a href="water-filters">Water filters</a></li>
+            <li><a href="lead-pipes">Lead pipes</a></li>
           </ul>
         </div>
       </div>
     </div>
 
     <div class="f" id="navClickResAbout">
-      <p>About</p>
+      <p>Help and advice</p>
       <i class="fa-solid fa-sort-down"></i>
     </div>
 
     <div class="navClickRes" id="navClickResShowAbout">
       <div class="main">
-        <h1>Bussniess Customer</h1>
-        <p>In this section of the website you can find information about water and sewerage supply to
-          businesses, charities and public sector organisations.</p>
+        <h1>Help and advice</h1>
+        <p>This section provides guidance on water quality, testing, high water bills, saving water, developer
+          information, approved plumbers, and insurance claims.</p>
         <div class="sec"></div>
         <div class="links">
           <ul>
-            <li><a href="">Your water bill</a></li>
-            <li><a href="">Supply and standards</a></li>
-            <li><a href="">Surface water drainage</a></li>
-            <li><a href="">Becoming a self-supply licensee</a></li>
-            <li><a href="">Reselling water</a></li>
+            <li><a href="water-quality">Water quality</a></li>
+            <li><a href="water-testing">Water testing</a></li>
+            <li><a href="high-water-bill">High water bill</a></li>
+            <li><a href="save-water">Save water</a></li>
+            <li><a href="developers">Developers</a></li>
+            <li><a href="approved-plumbers">Approved plumbers</a></li>
+            <li><a href="insurance-claim">Insurance claim</a></li>
           </ul>
         </div>
       </div>
     </div>
 
     <div class="f" id="navClickResServices">
-      <p>Services</p>
+      <p>Emergencies</p>
       <i class="fa-solid fa-sort-down"></i>
     </div>
 
     <div class="navClickRes" id="navClickResShowServices">
       <div class="main">
-        <h1>Bussniess Customer</h1>
+        <h1>In this section, you can find essential information on dealing with water leaks, low water pressure, no
+          water,
+          frozen or burst pipes, and turning your water on or off.</h1>
         <p>In this section of the website you can find information about water and sewerage supply to
           businesses, charities and public sector organisations.</p>
         <div class="sec"></div>
         <div class="links">
           <ul>
-            <li><a href="">Your water bill</a></li>
-            <li><a href="">Supply and standards</a></li>
-            <li><a href="">Surface water drainage</a></li>
-            <li><a href="">Becoming a self-supply licensee</a></li>
-            <li><a href="">Reselling water</a></li>
+            <li><a href="water-leak">Water leak</a></li>
+            <li><a href="low-water-pressure">Low water pressure</a></li>
+            <li><a href="no-water">No water</a></li>
+            <li><a href="frozen-burst-pipes">Frozen or burst pipes</a></li>
+            <li><a href="turning-water-on-off">Turning your water on or off</a></li>
           </ul>
         </div>
       </div>
     </div>
 
-    <div class="f" id="navClickResBlog">
-      <p>Blog</p>
-      <i class="fa-solid fa-sort-down"></i>
+    <div class="f" id="navClickResServices">
+      <a href="about">About Us</a>
     </div>
-
-    <div class="navClickRes" id="navClickResShowBlog">
-      <div class="main">
-        <h1>Bussniess Customer</h1>
-        <p>In this section of the website you can find information about water and sewerage supply to
-          businesses, charities and public sector organisations.</p>
-        <div class="sec"></div>
-        <div class="links">
-          <ul>
-            <li><a href="">Your water bill</a></li>
-            <li><a href="">Supply and standards</a></li>
-            <li><a href="">Surface water drainage</a></li>
-            <li><a href="">Becoming a self-supply licensee</a></li>
-            <li><a href="">Reselling water</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-
-    <div class="f" id="navClickResNext">
-      <p>Next</p>
-      <i class="fa-solid fa-sort-down"></i>
-    </div>
-
-    <div class="navClickRes" id="navClickResShowNext">
-      <div class="main">
-        <h1>Bussniess Customer</h1>
-        <p>In this section of the website you can find information about water and sewerage supply to
-          businesses, charities and public sector organisations.</p>
-        <div class="sec"></div>
-        <div class="links">
-          <ul>
-            <li><a href="">Your water bill</a></li>
-            <li><a href="">Supply and standards</a></li>
-            <li><a href="">Surface water drainage</a></li>
-            <li><a href="">Becoming a self-supply licensee</a></li>
-            <li><a href="">Reselling water</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <div class="f">
-      <p>Next</p>
-      <!-- <i class="fa-solid fa-sort-down"></i> -->
-    </div>
-    <div class="f">
-      <p>Next</p>
-      <!-- <i class="fa-solid fa-sort-down"></i> -->
-    </div>
-
   </div>
 </div>
 
