@@ -1,5 +1,7 @@
 ---
 title: "Water Testing"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/water-testing.jpg" alt="Water Sector Overview" >}}

@@ -1,5 +1,7 @@
 ---
 title: "Shared Water Supplies"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/shared-water-supply.jpg" alt="Water Sector Overview" >}}

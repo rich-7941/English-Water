@@ -1,5 +1,7 @@
 ---
 title: "Turning your water on or off"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/turning-your-water-on-or-off.jpg" alt="Water Sector Overview" >}}

@@ -1,5 +1,7 @@
 ---
 title: "No Water"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/no-water.jpg" alt="Water Sector Overview" >}}

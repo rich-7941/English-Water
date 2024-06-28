@@ -1,6 +1,7 @@
 ---
 title: "Water Leak"
 image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 {{< image src="images/water-leak.jpg" alt="Water Sector Overview" >}}
 

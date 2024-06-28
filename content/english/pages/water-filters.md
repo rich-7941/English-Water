@@ -1,5 +1,7 @@
 ---
 title: "Water Filters"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/water-filters.jpg" alt="Water Sector Overview" >}}

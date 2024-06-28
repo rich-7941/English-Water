@@ -1,5 +1,7 @@
 ---
 title: "Lead Pipes"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/lead-pipes.jpg" alt="Water Sector Overview" >}}

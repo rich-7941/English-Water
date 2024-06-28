@@ -1,5 +1,7 @@
 ---
 title: "High Water Bill"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/high-water-bill.jpg" alt="Water Sector Overview" >}}

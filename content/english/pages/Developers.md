@@ -1,5 +1,7 @@
 ---
 title: "Developers"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/developers.jpg" alt="Water Sector Overview" >}}

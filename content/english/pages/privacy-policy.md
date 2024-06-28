@@ -6,6 +6,8 @@ meta_title: ""
 description: "This is meta description"
 # save as draft
 draft: false
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 #### Responsibility of Contributors

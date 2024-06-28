@@ -1,5 +1,7 @@
 ---
 title: "Approved Plumbers"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/low-water-pressure.jpg" alt="Water Sector Overview" >}}

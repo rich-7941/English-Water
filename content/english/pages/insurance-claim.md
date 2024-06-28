@@ -1,5 +1,7 @@
 ---
 title: "Insurance claim"
+image19: "/images/logo.png"
+image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/insurance-claim.jpg" alt="Water Sector Overview" >}}
