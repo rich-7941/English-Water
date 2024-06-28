@@ -15,6 +15,8 @@
   image12: "/images/shared-water-supply.jpg"
   image13: "/images/frozen-or-burst-pipes.jpg"
   image14: "/images/turning-your-water-on-or-off.jpg"
+  image19: "/images/logo.png"
+  image20: "/images/logo-darkmode.png"
 ---
 
 

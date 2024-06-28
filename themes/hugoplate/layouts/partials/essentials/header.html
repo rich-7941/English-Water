@@ -1,139 +1,406 @@
-<header
-  class="header {{ if site.Params.navbar_fixed }}sticky top-0{{ end }} z-30">
-  <nav class="navbar container">
-    <!-- logo -->
-    <div class="order-0">
-      <!-- navbar brand/logo -->
-      <a class="navbar-brand block" href="{{ site.Home.RelPermalink }}">
-        {{ partial "logo" }}
-      </a>
-    </div>
-    <!-- navbar toggler -->
-    <input id="nav-toggle" type="checkbox" class="hidden" />
-    <label
-      for="nav-toggle"
-      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
-      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
-        <title>Menu Open</title>
-        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
-      </svg>
-      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
-        <title>Menu Close</title>
-        <polygon
-          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
-          transform="rotate(45 10 10)"></polygon>
-      </svg>
-    </label>
-    <!-- /navbar toggler -->
-
-    <!-- main navbar -->
-    <ul
-      id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
-      {{ $currentPage := . }}
-      {{ range site.Menus.main }}
-        {{ $menuURL := .URL | absLangURL }}
-        {{ $pageURL:= $currentPage.Permalink | absLangURL }}
-        {{ $active := eq $menuURL $pageURL }}
-        {{ if .HasChildren }}
-          <li class="nav-item nav-dropdown group relative">
-            <span
-              class="nav-link {{ range .Children }}
-                {{ $childURL := .URL | absLangURL }}
-                {{ $active := eq $childURL $pageURL }}
-                {{ if $active }}active{{ end }}
-              {{ end }} inline-flex items-center">
-              {{ .Name }}
-              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
-                <path
-                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-              </svg>
-            </span>
-            <ul
-              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
-              {{ range .Children }}
-                {{ $childURL := .URL | absLangURL }}
-                {{ $active := eq $childURL $pageURL }}
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link {{ if $active }}
-                      active
-                    {{- end -}}"
-                    {{ if findRE `^http` .URL }}
-                      target="_blank" rel="noopener"
-                    {{ end }}
-                    href="{{- if findRE `^#` .URL -}}
-                      {{- if not $.IsHome -}}
-                        {{- site.Home.RelPermalink -}}
-                      {{- end }}
-                      {{- .URL -}}
-                    {{- else -}}
-                      {{- .URL | relLangURL -}}
-                    {{- end -}}">
-                    {{ .Name }}
-                  </a>
-                </li>
-              {{ end }}
-            </ul>
-          </li>
-        {{ else }}
-          <li class="nav-item">
-            <a
-              class="nav-link {{ if $active }}active{{- end -}}"
-              {{ if findRE `^http` .URL }}
-                target="_blank" rel="noopener"
-              {{ end }}
-              href="{{- if findRE `^#` .URL -}}
-                {{- if not $.IsHome -}}
-                  {{- site.Home.RelPermalink -}}
-                {{- end }}{{- .URL -}}
-              {{- else -}}
-                {{- .URL | relLangURL -}}
-              {{- end -}}"
-              >{{ .Name }}</a
-            >
-          </li>
-        {{ end }}
-      {{ end }}
-      {{ if site.Params.navigation_button.enable }}
-        <li class="mt-4 inline-block lg:hidden">
-          <a
-            class="btn btn-outline-primary btn-sm"
-            href="{{ site.Params.navigation_button.link | relLangURL }}">
-            {{ site.Params.navigation_button.label }}
-          </a>
-        </li>
-      {{ end }}
+<nav>
+  <div class="main">
+    <a href="/">
+      {{ partial "image" (dict "Src" .Params.image19 "Context" .Page "Alt" .Title "Class" "" "Size"
+      "220x60")
+      }}
+    </a>
+    <ul>
+      <li id="onclickAboutNav">Your water supply<i class="fa-solid fa-chevron-down"></i></li>
+      <li id="onclickRegulatedNav">Help and advice<i class="fa-solid fa-chevron-down"></i></li>
+      <li id="onclickResidedntailNav">Emergencies<i class="fa-solid fa-chevron-down"></i></li>
+      <li><a href="">About Us</a></li>
     </ul>
+    <i class="fa-solid fa-bars" id="navResBar"></i>
+  </div>
+</nav>
 
-    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
-      {{ with site.Params.search }}
-        {{ if .enable }}
-          <button
-            aria-label="search"
-            {{ if and (not site.Params.navigation_button.enable) (not site.Params.theme_switcher)}}
-            class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r lg:border-r-0 pr-5 lg:pr-0 text-xl dark:text-white dark:hover:text-darkmode-primary"
-            {{ else }}
-            class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
-            {{ end }}
-            data-target="search-modal">
-            <i class="fa-solid fa-search"></i>
-          </button>
-        {{ end }}
-      {{ end }}
+<div id="navPAdding"></div>
 
-      {{ partial "components/language-switcher" (dict "Context" . "Class" "mr-5 pl-2 py-1 dark:bg-darkmode-theme-light rounded") }}
-      {{ partial "components/theme-switcher" (dict "Class" "mr-5") }}
+<!-- ===========nav OnClick============ -->
 
 
-      <!-- navigation btn -->
-      {{ if site.Params.navigation_button.enable }}
-        <a
-          href="{{ site.Params.navigation_button.link | relLangURL }}"
-          class="btn btn-outline-primary btn-sm hidden lg:inline-block">
-          {{ site.Params.navigation_button.label }}
-        </a>
-      {{ end }}
+
+
+<!-- For About -->
+<div class="navClick" id="showAbout">
+  <div class="main">
+    <div class="f">
+      <h1>Your water supply</h1>
+      <p>In this section of the website, you can find information about your water supplier, available grants, shared
+        water supplies, water pumps, water filters, and lead pipe replacement.</p>
     </div>
-  </nav>
-</header>
+    <div class="s"></div>
+    <div class="links">
+
+      <div class="t">
+        <ul>
+          <li><a href="my-water-supplier">My water supplier
+            </a></li>
+          <li><a href="water-supplier-grants">Water supplier grants</a></li>
+          <li><a href="shared-water-supplies">Shared water supplies</a></li>
+          <li><a href="water-pump">Water pump</a></li>
+          <li><a href="water-filters">Water filters</a></li>
+        </ul>
+      </div>
+      <div class="fo">
+        <ul>
+          <li><a href="lead-pipes">Lead pipes</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- For regulated -->
+<div class="navClick" id="showRegulated">
+  <div class="main">
+    <div class="f">
+      <h1>Help and advice</h1>
+      <p>This section provides guidance on water quality, testing, high water bills, saving water, developer
+        information, approved plumbers, and insurance claims.</p>
+    </div>
+    <div class="s"></div>
+    <div class="links">
+
+      <div class="t">
+        <ul>
+          <li><a href="water-quality">Water quality</a></li>
+          <li><a href="water-testing">Water testing</a></li>
+          <li><a href="high-water-bill">High water bill</a></li>
+          <li><a href="save-water">Save water</a></li>
+          <li><a href="developers">Developers</a></li>
+        </ul>
+      </div>
+      <div class="fo">
+        <ul>
+          <li><a href="approved-plumbers">Approved plumbers</a></li>
+          <li><a href="insurance-claim">Insurance claim</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- For residentail -->
+<div class="navClick" id="showResidentail">
+  <div class="main">
+    <div class="f">
+      <h1>Emergencies</h1>
+      <p>In this section, you can find essential information on dealing with water leaks, low water pressure, no water,
+        frozen or burst pipes, and turning your water on or off.</p>
+    </div>
+    <div class="s"></div>
+    <div class="links">
+
+      <div class="t">
+        <ul>
+          <li><a href="water-leak">Water leak</a></li>
+          <li><a href="low-water-pressure">Low water pressure</a></li>
+          <li><a href="no-water">No water</a></li>
+          <li><a href="frozen-burst-pipes">Frozen or burst pipes</a></li>
+          <li><a href="turning-water-on-off">Turning your water on or off</a></li>
+        </ul>
+      </div>
+      <div class="fo">
+        <ul>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- for investor -->
+<div class="navClick" id="ShowInvestor">
+  <div class="main">
+    <div class="f">
+      <h1>Investor</h1>
+      <p>In this section of the website you can find information about water and sewerage supply to
+        businesses, charities and public sector organisations.</p>
+    </div>
+    <div class="s"></div>
+    <div class="links">
+
+      <div class="t">
+        <ul>
+          <li><a href="">Your water bill</a></li>
+          <li><a href="">Supply and standards</a></li>
+          <li><a href="">Surface water drainage</a></li>
+          <li><a href="">Becoming a self-supply licensee</a></li>
+          <li><a href="">Reselling water</a></li>
+        </ul>
+      </div>
+      <div class="fo">
+        <ul>
+          <li><a href="">Your water bill</a></li>
+          <li><a href="">Developers</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- for Bussniess -->
+<div class="navClick" id="showBussniess">
+  <div class="main">
+    <div class="f">
+      <h1>Bussniess Customer</h1>
+      <p>In this section of the website you can find information about water and sewerage supply to
+        businesses, charities and public sector organisations.</p>
+    </div>
+    <div class="s"></div>
+    <div class="links">
+
+      <div class="t">
+        <ul>
+          <li><a href="">Your water bill</a></li>
+          <li><a href="">Supply and standards</a></li>
+          <li><a href="">Surface water drainage</a></li>
+          <li><a href="">Becoming a self-supply licensee</a></li>
+          <li><a href="">Reselling water</a></li>
+        </ul>
+      </div>
+      <div class="fo">
+        <ul>
+          <li><a href="">Your water bill</a></li>
+          <li><a href="">Developers</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="divider"></div>
+
+<!-- ========= -->
+
+
+
+<!-- responsiveNavbar================ -->
+
+
+<div class="resNavbar" id="resNavbar">
+  <div class="main">
+    <div class="f" id="navClickResHome">
+      <p>Home</p>
+      <i class="fa-solid fa-sort-down"></i>
+    </div>
+
+    <div class="navClickRes " id="navClickResShow">
+      <div class="main">
+        <h1>Bussniess Customer</h1>
+        <p>In this section of the website you can find information about water and sewerage supply to
+          businesses, charities and public sector organisations.</p>
+        <div class="sec"></div>
+        <div class="links">
+          <ul>
+            <li><a href="">Your water bill</a></li>
+            <li><a href="">Supply and standards</a></li>
+            <li><a href="">Surface water drainage</a></li>
+            <li><a href="">Becoming a self-supply licensee</a></li>
+            <li><a href="">Reselling water</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="f" id="navClickResAbout">
+      <p>About</p>
+      <i class="fa-solid fa-sort-down"></i>
+    </div>
+
+    <div class="navClickRes" id="navClickResShowAbout">
+      <div class="main">
+        <h1>Bussniess Customer</h1>
+        <p>In this section of the website you can find information about water and sewerage supply to
+          businesses, charities and public sector organisations.</p>
+        <div class="sec"></div>
+        <div class="links">
+          <ul>
+            <li><a href="">Your water bill</a></li>
+            <li><a href="">Supply and standards</a></li>
+            <li><a href="">Surface water drainage</a></li>
+            <li><a href="">Becoming a self-supply licensee</a></li>
+            <li><a href="">Reselling water</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="f" id="navClickResServices">
+      <p>Services</p>
+      <i class="fa-solid fa-sort-down"></i>
+    </div>
+
+    <div class="navClickRes" id="navClickResShowServices">
+      <div class="main">
+        <h1>Bussniess Customer</h1>
+        <p>In this section of the website you can find information about water and sewerage supply to
+          businesses, charities and public sector organisations.</p>
+        <div class="sec"></div>
+        <div class="links">
+          <ul>
+            <li><a href="">Your water bill</a></li>
+            <li><a href="">Supply and standards</a></li>
+            <li><a href="">Surface water drainage</a></li>
+            <li><a href="">Becoming a self-supply licensee</a></li>
+            <li><a href="">Reselling water</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="f" id="navClickResBlog">
+      <p>Blog</p>
+      <i class="fa-solid fa-sort-down"></i>
+    </div>
+
+    <div class="navClickRes" id="navClickResShowBlog">
+      <div class="main">
+        <h1>Bussniess Customer</h1>
+        <p>In this section of the website you can find information about water and sewerage supply to
+          businesses, charities and public sector organisations.</p>
+        <div class="sec"></div>
+        <div class="links">
+          <ul>
+            <li><a href="">Your water bill</a></li>
+            <li><a href="">Supply and standards</a></li>
+            <li><a href="">Surface water drainage</a></li>
+            <li><a href="">Becoming a self-supply licensee</a></li>
+            <li><a href="">Reselling water</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="f" id="navClickResNext">
+      <p>Next</p>
+      <i class="fa-solid fa-sort-down"></i>
+    </div>
+
+    <div class="navClickRes" id="navClickResShowNext">
+      <div class="main">
+        <h1>Bussniess Customer</h1>
+        <p>In this section of the website you can find information about water and sewerage supply to
+          businesses, charities and public sector organisations.</p>
+        <div class="sec"></div>
+        <div class="links">
+          <ul>
+            <li><a href="">Your water bill</a></li>
+            <li><a href="">Supply and standards</a></li>
+            <li><a href="">Surface water drainage</a></li>
+            <li><a href="">Becoming a self-supply licensee</a></li>
+            <li><a href="">Reselling water</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="f">
+      <p>Next</p>
+      <!-- <i class="fa-solid fa-sort-down"></i> -->
+    </div>
+    <div class="f">
+      <p>Next</p>
+      <!-- <i class="fa-solid fa-sort-down"></i> -->
+    </div>
+
+  </div>
+</div>
+
+
+<script>
+
+  // ===========about
+  const onclickAboutNav = document.getElementById("onclickAboutNav")
+  const showAbout = document.getElementById("showAbout")
+
+  onclickAboutNav.addEventListener('click', () => {
+    showAbout.classList.toggle("showAbout")
+    showRegulated.classList.remove("showRegulated")
+    showResidentail.classList.remove("showResidentail")
+    ShowInvestor.classList.remove("showResidentail")
+    showBussniess.classList.remove("showBussniess")
+  })
+
+  // ===========regulated
+  const onclickRegulatedNav = document.getElementById("onclickRegulatedNav")
+  const showRegulated = document.getElementById("showRegulated")
+
+  onclickRegulatedNav.addEventListener('click', () => {
+    showRegulated.classList.toggle("showRegulated")
+    showAbout.classList.remove("showAbout")
+    showResidentail.classList.remove("showResidentail")
+    ShowInvestor.classList.remove("showResidentail")
+    showBussniess.classList.remove("showBussniess")
+  })
+
+  // ===========onclickResidedntailNav
+  const onclickResidedntailNav = document.getElementById("onclickResidedntailNav")
+  const showResidentail = document.getElementById("showResidentail")
+
+  onclickResidedntailNav.addEventListener('click', () => {
+    showResidentail.classList.toggle("showResidentail")
+    showRegulated.classList.remove("showRegulated")
+    showAbout.classList.remove("showAbout")
+    ShowInvestor.classList.remove("showResidentail")
+    showBussniess.classList.remove("showBussniess")
+  })
+
+
+
+
+
+  // ================responsive Nav============
+  // ================responsive Nav============
+  // ================responsive Nav============
+
+  const navResBar = document.getElementById("navResBar")
+  const resNavbar = document.getElementById("resNavbar")
+
+  navResBar.addEventListener('click', () => {
+    resNavbar.classList.toggle("resNavbarUnset")
+  })
+
+
+  const navClickResHome = document.getElementById("navClickResHome")
+  const navClickResShow = document.getElementById("navClickResShow")
+
+  navClickResHome.addEventListener('click', () => {
+    navClickResShow.classList.toggle("navClickResShow")
+  })
+
+  const navClickResAbout = document.getElementById("navClickResAbout")
+  const navClickResShowAbout = document.getElementById("navClickResShowAbout")
+
+  navClickResAbout.addEventListener('click', () => {
+    navClickResShowAbout.classList.toggle("navClickResShowAbout")
+  })
+
+  const navClickResServices = document.getElementById("navClickResServices")
+  const navClickResShowServices = document.getElementById("navClickResShowServices")
+
+  navClickResServices.addEventListener('click', () => {
+    navClickResShowServices.classList.toggle("navClickResShowAbout")
+  })
+
+
+  const navClickResBlog = document.getElementById("navClickResBlog")
+  const navClickResShowBlog = document.getElementById("navClickResShowBlog")
+
+  navClickResBlog.addEventListener('click', () => {
+    navClickResShowBlog.classList.toggle("navClickResShowAbout")
+  })
+
+
+  const navClickResNext = document.getElementById("navClickResNext")
+  const navClickResShowNext = document.getElementById("navClickResShowNext")
+
+  navClickResNext.addEventListener('click', () => {
+    navClickResShowNext.classList.toggle("navClickResShowAbout")
+  })
+
+
+</script>

@@ -45,6 +45,9 @@ header .navbar ul li a:hover {
     font-weight: 900;
 }
 
+h1 {
+    color: var(--white-color) !important;
+}
 
 .improving {
     display: flex;
@@ -68,7 +71,7 @@ header .navbar ul li a:hover {
     h1 {
         text-align: center;
         padding-top: 1rem;
-        color: var(--black-color);
+        color: var(--black-color) !important;
         padding-bottom: 1rem;
     }
 
@@ -232,4 +235,275 @@ footer {
         left: -2.5rem !important;
         opacity: 0;
     }
+}
+
+
+
+
+
+
+
+
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+
+    .main {
+        max-width: 90rem;
+        padding: 0 3rem;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 5rem;
+
+        a {
+            text-decoration: none;
+
+            h1 {
+                color: var(--blue-color);
+                font-size: 2rem;
+            }
+        }
+
+        ul {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1.5rem;
+            list-style: none;
+
+            i {
+                color: var(--blue-color);
+            }
+
+            li {
+                display: flex;
+                color: var(--blue-color);
+                justify-content: center;
+                align-items: center;
+                gap: .3rem;
+                cursor: pointer;
+                transition: 200ms all;
+
+                &:hover {
+                    color: var(--lightBlue-color);
+                }
+
+                a {
+                    color: var(--blue-color);
+                    text-decoration: none;
+                }
+            }
+        }
+
+        .fa-bars {
+            display: none;
+            font-size: 1.4rem;
+            color: var(--blue-color);
+            cursor: pointer;
+        }
+    }
+}
+
+@media screen and (max-width:1215px) {
+    nav {
+        .main {
+            ul {
+                display: none;
+            }
+
+            .fa-bars {
+                display: block;
+            }
+        }
+    }
+}
+
+#navPAdding {
+    padding-top: 5rem;
+}
+
+
+
+.navClick {
+    color: var(--white-color);
+    height: 0;
+    overflow: hidden;
+    margin: auto;
+    transition: 200ms all;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--blue-color);
+
+
+    .main {
+        max-width: 80rem;
+        display: flex;
+        gap: 3rem;
+        padding: 3rem;
+        transition: 200ms all;
+
+        .f {
+            max-width: 27rem;
+
+            h1 {
+                font-size: 1.1rem;
+                padding-bottom: .7rem;
+            }
+        }
+
+        .s {
+            height: 13rem;
+            background-color: var(--white-color);
+            width: .2rem;
+            border-radius: 25rem;
+        }
+
+        .links {
+            display: flex;
+            gap: 3rem;
+
+            .t,
+            .fo {
+                ul {
+                    display: flex;
+                    flex-direction: column;
+                    list-style: none;
+                    gap: .5rem;
+
+                    li {
+                        a {
+                            color: var(--white-color);
+                            text-decoration: none;
+                            transition: 200ms all;
+
+                            &:hover {
+                                text-decoration: underline;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.showBussniess,
+.showAbout,
+.showRegulated,
+.showResidentail,
+.ShowInvestor {
+    height: 18rem;
+}
+
+#divider {
+    width: 100%;
+    height: .15rem;
+    background-color: var(--blue-color);
+    position: fixed;
+}
+
+.resNavbar {
+    width: 100%;
+    background-color: var(--blue-color);
+    color: var(--white-color);
+    transition: 200ms all;
+    position: fixed;
+    height: 0;
+    overflow: hidden;
+
+    .main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: 200ms all;
+
+        .f {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 1.5rem;
+            padding-bottom: .5rem;
+            border-bottom: 2px solid #0069d9;
+            cursor: pointer;
+        }
+
+        .navClickRes {
+            height: 0rem;
+            overflow: hidden;
+            transition: 200ms all;
+
+            .main {
+                transition: 200ms all;
+                padding: 1rem;
+                display: flex;
+                flex-direction: column;
+
+                h1 {
+                    font-size: 1.2rem;
+                    padding-bottom: .5rem;
+                }
+
+                .sec {
+                    width: 100%;
+                    height: .1rem;
+                    margin-top: 1rem;
+                    background-color: var(--white-color);
+                }
+
+                .links {
+                    padding-top: 1rem;
+
+                    ul {
+                        list-style: none;
+
+                        li {
+                            padding-bottom: .6rem;
+
+                            a {
+                                color: var(--white-color);
+                                text-decoration: none;
+                                transition: 200ms all;
+
+                                &:hover {
+                                    text-decoration: underline;
+                                    color: #ffffffc1;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .navClickResShow,
+        .navClickResShowAbout,
+        .navClickResShowServices,
+        .navClickResShowBlog,
+        .navClickResShowNext {
+            height: unset;
+            transition: 200ms all;
+        }
+    }
+}
+
+.resNavbarUnset {
+    padding: 1rem 2rem;
+    height: unset;
+}
+
+.fas,
+.fa-classic,
+.fa-solid,
+.far,
+.fa-regular {
+    font-family: 'Font Awesome 6 Free' !important;
 }

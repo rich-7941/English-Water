@@ -2,7 +2,10 @@
 
 <footer>
   <div class="main">
-    <h2>English Water</h2>
+    {{ partial "image" (dict "Src" .Params.image20 "Context" .Page "Alt" .Title "Class" "" "Size"
+    "250x50")
+    }}
+    <a href="privacy-policy">Privacy Policy</a>
   </div>
 </footer>
 <div id="divider2"></div>
