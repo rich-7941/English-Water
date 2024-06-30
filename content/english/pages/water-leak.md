@@ -5,52 +5,55 @@ image20: "/images/logo-darkmode.png"
 ---
 {{< image src="images/water-leak.jpg" alt="Water Sector Overview" >}}
 
-## Water sector overview
+## Water Leaks
 
-Every day, over 50 million household and non-household consumers in England and Wales receive good quality water, sanitation, and drainage services. These services are provided by privately-owned companies in England and Wales.
+Leaks within or on your property are your responsibility. Our comprehensive guide provides advice on what to do when you encounter a leak at home. This includes identifying leaks, checking pipe responsibility, and arranging repairs.
 
-Since the water and sewerage industry was privatised in 1989, a regulatory framework has been in place to ensure that consumers receive high standards of service at a fair price. This framework has allowed the companies to invest more than £130 billion in maintaining and improving assets and services. The industry must also comply with relevant legislation.
+It’s essential to locate any leaks promptly as they can cause further damage to your home, such as subsidence. If you have a meter, you’re also paying for the leaking water, so repairing the leak can reduce your bill.
 
-In this section, you can find out more about:
+## What to Do If You Think You Have a Water Leak
 
-- the [companies that are licensed to deliver water and sewerage services](#) in England and Wales
-- the [legal framework](#) under which they operate
+Sometimes, a leak isn’t immediately obvious but can silently waste water and cost you money. If you suspect a leak, here are some indicators to watch for:
 
-Below you can find more about:
+- Water where there usually isn’t any
+- Reduced water pressure in your home
+- Damp patches on the ground
+- Noisy pipework
+- A significant increase in your meter reading or bill
+- A particularly lush patch of grass or plants, especially during dry weather
 
-- the regulatory framework that oversees, licenses, and monitors them
-- where you can find maps of water company areas
-- the history of the water sector in England and Wales
+## Finding a Leak in Your Home
 
-## Regulatory framework
+There aren’t always clear signs of a leak, such as a damp patch or water bubbling up from the ground in your garden. Sometimes you have to investigate. Follow this simple checklist to help you find a water leak in your house.
 
-[Department for Environment, Food and Rural Affairs (Defra)](#)
+1. **Find Your Water Meter**
 
-Sets the overall water and sewerage policy framework in England. This includes:
+   Your water meter is usually outside your home, under a small metal or plastic cover embedded in the pavement near the property. It might also be in your garden.
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
+2. **Turn Off or Stop Using Appliances**
 
-[Welsh Government](#)
+   Ensure that anything that normally draws water from your pipework is not in use. This includes appliances such as washing machines and dishwashers, as well as toilet cisterns and water tanks. Otherwise, you won’t be able to detect a leak.
 
-Sets the overall water and sewerage policy framework in Wales. This includes:
+3. **Wait 15 Minutes**
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
+   After checking your appliances, wait 15 minutes to ensure nothing in your home is still consuming water.
 
-The Welsh Government and Defra work closely together on water issues.
+4. **Check Your Water Meter**
 
-[Ofwat](#)
+   Check your meter. If the meter dial is moving, then there may be a leak somewhere in the pipework.
 
-We are the economic regulator of the water and sewerage sectors, we:
+5. **Carry Out a Simple Stop Tap Test**
 
-- protect the interests of consumers, wherever appropriate by promoting competition
-- make sure that the water companies properly carry out their functions
-- ensure that the water companies can finance their functions
+   Locate your internal stop tap (usually under the stairs, kitchen sink, or in the basement) and turn it off. Try running your kitchen tap to ensure the stop tap is off—there should be no running water. Then, check your water meter. If the red dial is moving, there might be a leak between the meter and the stop tap on your water supply pipe.
 
-We also (among other things):
+6. **If the Red Dial Is Not Moving**
 
-- promote economy and efficiency
-- contribute to the achievement of sustainable development
+   If the red dial is not moving, there might be an issue in the pipework or plumbing inside your home. This is your responsibility, so you’ll need to call a plumber to fix the problem.
+
+If you are a tenant, it's your landlord’s responsibility to find and repair the leak. Please inform them if you have a leak.
+
+If the leak is outside your home but still on your property, you’ll need specialist water contractors. They can perform water supply pipe leak detection, repairs, and replacements. 
+
+These contractors are approved WaterTrust plumbers and work in compliance with [UK Byelaws and Water Fittings Regulations](https://www.waterregsuk.co.uk/information/water-fittings-regul/).
+
+We recommend contacting a WaterTrust-approved plumber by visiting this dedicated webpage.

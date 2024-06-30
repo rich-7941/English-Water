@@ -5,52 +5,36 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/low-water-pressure.jpg" alt="Water Sector Overview" >}}
-## Water sector overview
+## What is water pressure?
 
-Every day, over 50 million household and non-household consumers in England and Wales receive good quality water, sanitation, and drainage services. These services are provided by privately-owned companies in England and Wales.
+Water pressure refers to the force exerted by water as it moves through the pipes, influencing the strength of the flow coming out of your tap.
 
-Since the water and sewerage industry was privatised in 1989, a regulatory framework has been in place to ensure that consumers receive high standards of service at a fair price. This framework has allowed the companies to invest more than £130 billion in maintaining and improving assets and services. The industry must also comply with relevant legislation.
+## What should I do if I have a problem with water pressure?
 
-In this section, you can find out more about:
+If you’re experiencing low water pressure, first check for plumbing issues within your property, such as a partially closed internal stop tap or a leak.
 
-- the [companies that are licensed to deliver water and sewerage services](#) in England and Wales
-- the [legal framework](#) under which they operate
+## What else can affect your water pressure?
 
-Below you can find more about:
+Modern heating appliances and showers often require a certain pressure level to function properly. Before installing such equipment, consult your water company to ensure that the pressure in your area is sufficient for these systems.
 
-- the regulatory framework that oversees, licenses, and monitors them
-- where you can find maps of water company areas
-- the history of the water sector in England and Wales
+## No water or low water pressure?
 
-## Regulatory framework
+Our checklist explains the potential reasons for no water or low pressure and how to address these issues.
 
-[Department for Environment, Food and Rural Affairs (Defra)](#)
+When you turn on your taps, you should expect the water pressure to be strong enough to fill a glass or kettle easily. If the pressure drops to a trickle or stops completely, don’t panic.
 
-Sets the overall water and sewerage policy framework in England. This includes:
+## What to do if you have low water pressure
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
+If you don’t have a strong enough flow of water coming through your taps, try these steps to increase your water pressure:
 
-[Welsh Government](#)
+1. **Locate your internal stop tap:** Your stop tap might be in a kitchen cupboard near the sink, close to your front door, in an airing cupboard, or near your water meter (if inside your house). Once you locate your stop tap, turn it off completely.
 
-Sets the overall water and sewerage policy framework in Wales. This includes:
+2. **Turn on your cold tap:** Fully turn on the cold water tap in your kitchen. Some residual water might flow out for a few seconds before it stops.
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
+3. **Turn your internal stop tap back on:** Turn the stop tap back on. There may be a brief surge as the airlock clears, after which the water should return to normal pressure.
 
-The Welsh Government and Defra work closely together on water issues.
+4. **Further checks:** Besides your main stop tap, ensure any other taps controlling flow to your hot water system or other devices are turned on. If you have a thermostatic shower, check if the thermostat needs adjusting.
 
-[Ofwat](#)
+5. **Check your house for leaks:** Inspect your home for any leaking pipes that could cause a drop in pressure. Refer to our guide for locating household leaks.
 
-We are the economic regulator of the water and sewerage sectors, we:
-
-- protect the interests of consumers, wherever appropriate by promoting competition
-- make sure that the water companies properly carry out their functions
-- ensure that the water companies can finance their functions
-
-We also (among other things):
-
-- promote economy and efficiency
-- contribute to the achievement of sustainable development
+If you still experience low water pressure or have little to no running water, it might be due to a water supply pipe leak that needs replacement. Find a local water industry-approved plumber on WaterTrust.
