@@ -15,7 +15,7 @@ pageRef = "/My-water-supplier"
 [[main]]
 parent = "Your water supply"
 name = "Water supplier grants"
-pageRef = "/Water-supplier-grants"
+pageRef = "/Lead-pipe-replacement-scheme"
 
 [[main]]
 parent = "Your water supply"

@@ -16,7 +16,7 @@
   image14: "/images/turning-your-water-on-or-off.jpg"
   image15: "/images/approved-plumber.jpg"
   image16: "/images/my-water-supplier.jpg"
-  image17: "/images/water-supplier-grants.jpg"
+  image17: "/images/lead-pipe-replacement-scheme.jpg"
   image18: "/images/water-supplier-grants.jpg"
   image19: "/images/logo.png"
   image20: "/images/logo-darkmode.png"
