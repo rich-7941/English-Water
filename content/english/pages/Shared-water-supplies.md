@@ -5,52 +5,24 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/shared-water-supply.jpg" alt="Water Sector Overview" >}}
-## Water sector overview
+## Shared Water Supply Pipes
 
-Every day, over 50 million household and non-household consumers in England and Wales receive good quality water, sanitation, and drainage services. These services are provided by privately-owned companies in England and Wales.
+Modern homes typically have their own dedicated water supply pipe. However, some older properties may be connected to a shared water supply pipe. This setup means a single pipe from your water supplier's mains splits into multiple pipes that enter each property. Homeowners with shared water supply pipes are collectively responsible for maintaining them. Shared water supply pipes can be problematic in terms of responsibility, as repairs often require agreement from all affected neighbours, depending on the location of the issue.
 
-Since the water and sewerage industry was privatised in 1989, a regulatory framework has been in place to ensure that consumers receive high standards of service at a fair price. This framework has allowed the companies to invest more than £130 billion in maintaining and improving assets and services. The industry must also comply with relevant legislation.
+## Shared Supply Problems
 
-In this section, you can find out more about:
+Households on a shared water supply may notice a significant drop in water pressure when a neighbour uses water, affecting activities like showering. In some cases, one property may have a stopcock controlling the water supply for both houses. This shared stopcock can be inconvenient if insurance requires you to turn off your water supply while you're away, as it would impact your neighbour as well.
 
-- the [companies that are licensed to deliver water and sewerage services](#) in England and Wales
-- the [legal framework](#) under which they operate
+Future issues with water metering are also possible, and relationships with neighbours play a crucial role here—disagreements can exacerbate shared water supply issues, potentially turning them into long-term disruptions.
 
-Below you can find more about:
+## Separate Water Supply Pipe
 
-- the regulatory framework that oversees, licenses, and monitors them
-- where you can find maps of water company areas
-- the history of the water sector in England and Wales
+The Water Industry Act 1991 states that water and sewerage companies must connect properties to their networks, giving you the right to a separate supply. However, you are responsible for the cost of running a new water supply pipe from the street mains to your property.
 
-## Regulatory framework
+Unlike other utility connections, such as gas, the water supply pipe within your property's boundary is your responsibility.
 
-[Department for Environment, Food and Rural Affairs (Defra)](#)
+Disputes over shared water supply pipes are civil matters, meaning your water supplier won't help resolve them. However, you can separate your supply from the shared pipework without your neighbours' permission.
 
-Sets the overall water and sewerage policy framework in England. This includes:
+The shared supply will continue to serve your neighbours and remain in place unless all connected properties arrange for individual supplies.
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
-
-[Welsh Government](#)
-
-Sets the overall water and sewerage policy framework in Wales. This includes:
-
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
-
-The Welsh Government and Defra work closely together on water issues.
-
-[Ofwat](#)
-
-We are the economic regulator of the water and sewerage sectors, we:
-
-- protect the interests of consumers, wherever appropriate by promoting competition
-- make sure that the water companies properly carry out their functions
-- ensure that the water companies can finance their functions
-
-We also (among other things):
-
-- promote economy and efficiency
-- contribute to the achievement of sustainable development
+If you want to install a separate water supply pipe and are currently on a shared one, it is advisable to use a WaterTrust-approved plumber.

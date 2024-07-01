@@ -5,52 +5,48 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/turning-your-water-on-or-off.jpg" alt="Water Sector Overview" >}}
-## Water sector overview
+## Turning Your Water On or Off
 
-Every day, over 50 million household and non-household consumers in England and Wales receive good quality water, sanitation, and drainage services. These services are provided by privately-owned companies in England and Wales.
+Your stop tap, also known as a stopcock or stop valve, manages the cold water supply entering your home or business. Typically, properties have two stop taps: an internal one and an external one.
 
-Since the water and sewerage industry was privatised in 1989, a regulatory framework has been in place to ensure that consumers receive high standards of service at a fair price. This framework has allowed the companies to invest more than £130 billion in maintaining and improving assets and services. The industry must also comply with relevant legislation.
+The internal stop tap controls the water inside the property, while the external stop tap regulates the entire water supply entering the property boundary.
 
-In this section, you can find out more about:
+You should only use your external stop tap in emergencies, such as a leak on the water supply pipe between your internal and external stop taps.
 
-- the [companies that are licensed to deliver water and sewerage services](#) in England and Wales
-- the [legal framework](#) under which they operate
+## How to Find and Use Your Internal Stop Tap
 
-Below you can find more about:
+Your internal stop tap is usually located in one of the following places and resembles a tap handle without a spout:
 
-- the regulatory framework that oversees, licenses, and monitors them
-- where you can find maps of water company areas
-- the history of the water sector in England and Wales
+- A kitchen cupboard
+- A utility room or garage
+- Under the stairs
+- A downstairs bathroom or toilet
 
-## Regulatory framework
+To turn it off, turn it clockwise (to the right). The water may take a while to stop. To open it again, turn the tap anti-clockwise (to the left). Be gentle and avoid overtightening or forcing the tap, which may cause damage.
 
-[Department for Environment, Food and Rural Affairs (Defra)](#)
+Contact a plumber if your tap doesn't turn or the water doesn't shut off within a few minutes.
 
-Sets the overall water and sewerage policy framework in England. This includes:
+## Finding Your External Stop Tap
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
+Your external stop tap is typically found underneath a cover on the footpath or road outside your home or business. It could also be located:
 
-[Welsh Government](#)
+- In the same place as your water meter on your property. If you've found the correct chamber, your water meter number should match the meter number on your bill.
+- At the end of your driveway or road, which is the case with older properties sharing a supply with neighbours.
 
-Sets the overall water and sewerage policy framework in Wales. This includes:
+Due to its location, take care when looking for or using your external stop tap to ensure your safety and avoid creating a hazard.
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
+## Using Your External Stop Tap
 
-The Welsh Government and Defra work closely together on water issues.
+Do not use or rely on your external stop tap to turn off the water supply inside your home. Use your internal stop tap for this.
 
-[Ofwat](#)
+### Turning Off the External Stop Tap
 
-We are the economic regulator of the water and sewerage sectors, we:
+Before starting, check your internal stop tap and turn your water supply off. If it's seized, not working, or you can't find your internal stop tap, proceed to your external stop tap and turn the valve clockwise (to the right).
 
-- protect the interests of consumers, wherever appropriate by promoting competition
-- make sure that the water companies properly carry out their functions
-- ensure that the water companies can finance their functions
+It will likely take several turns to stop the water flow, and it may take a couple of minutes for the water to stop as there will be some water left in the pipes. A valve or universal stop tap key is needed for specific stop taps, which can be purchased from most hardware stores or online.
 
-We also (among other things):
+When you reach a point where you cannot turn the stop tap anymore, stop. Do not use force to turn it further. If your home shares a water supply with neighbours, inform them before you start work, as turning off the external stop tap will also turn off their water supply.
 
-- promote economy and efficiency
-- contribute to the achievement of sustainable development
+### Turning On the External Stop Tap
+
+To turn the external stop tap back on and restore your water supply, turn it anti-clockwise (to the left). It may take a few turns to turn the water back on and a few minutes for the water to return to your taps as it makes its way through the pipework.
