@@ -6,7 +6,7 @@ image20: "/images/logo-darkmode.png"
 
 {{< image src="images/water-filters.jpg" alt="Water Sector Overview" >}}
 
-# Water filters
+## Water filters
 
 Water is essential to our daily lives, and ensuring its purity is crucial for health and well-being. A water filter is one of the most effective ways to guarantee clean drinking water at home. This guide will explore the different types of home water filters, their benefits, and how to choose the right one for your needs.
 
@@ -32,7 +32,7 @@ Using a water filter that specifically removes lead is one way to ensure your wa
 
 There are several types of water filters for homes, each with its specific purpose and method of filtration:
 
-### Activated carbon filters
+## Activated carbon filters
 
 - **How they work**: These filters use activated carbon to adsorb contaminants.
 
@@ -40,7 +40,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Improving taste and odour.
 
-### Reverse osmosis (RO) filters
+## Reverse osmosis (RO) filters
 
 - **How they work**: Water is forced through a semipermeable membrane that removes impurities.
 
@@ -48,7 +48,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Comprehensive filtration, especially in areas with high contamination.
 
-### Ultraviolet (UV) filters
+## Ultraviolet (UV) filters
 
 - **How they work**: UV light kills bacteria, viruses, and other microorganisms.
 
@@ -56,7 +56,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Ensuring microbiologically safe water.
 
-### Ceramic filters
+## Ceramic filters
 
 - **How they work**: Water passes through a ceramic material that filters out particles and microorganisms.
 
@@ -64,7 +64,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Simple and effective filtration for bacteria and sediments.
 
-### Ion exchange filters
+## Ion exchange filters
 
 - **How they work**: These filters use a resin to exchange ions with contaminants in the water.
 

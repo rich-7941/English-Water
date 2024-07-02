@@ -6,7 +6,7 @@ image20: "/images/logo-darkmode.png"
 
 {{< image src="images/water-leak-detection.jpg" alt="Water Sector Overview" >}}
 
-# Water leak detection
+## Water leak detection
 
 Water leaks can be a homeowner’s worst nightmare, causing extensive damage and leading to costly repairs if not addressed promptly. Detecting water leaks early is crucial to preventing these issues and maintaining the integrity of your home. This guide will walk you through the essentials of water leak detection, including common signs of leaks, methods for detecting them, and tips for preventing future leaks.
 

@@ -6,7 +6,7 @@ image20: "/images/logo-darkmode.png"
 
 {{< image src="images/water-quality.jpg" alt="Water Sector Overview" >}}
 
-# Water quality
+## Water quality
 
 What to do if your water looks unusual
 
@@ -24,7 +24,7 @@ Occasionally, customers report that their tap water suddenly has an unusual tast
 
 Below are the most common causes:
 
-### Chlorine/tcp/bitter/disinfectant/medicinal
+## Chlorine/tcp/bitter/disinfectant/medicinal
 
 Water suppliers add small, carefully controlled amounts of chlorine at the treatment works to disinfect the water, and a residual is maintained throughout the distribution system to ensure it's safe to drink. Rest assured, chlorine isn't harmful in the quantities they add, and they aim to keep chlorine levels to a minimum.
 
@@ -39,17 +39,17 @@ If you notice strong tcp tastes or smells from your water, try the following:
 - If you suspect your kettle may be causing the taste, try boiling water in a saucepan and use this water to make your hot drinks.
 - If you have a washing machine plumbed into the water mains in the kitchen, check it has a suitable non-return valve fitted so that water sitting in the hose over long periods is not drawn back.
 
-### Musty tastes or earthy smells
+## Musty tastes or earthy smells
 
 Musty tastes or smells are often caused by water that has been left stagnant after periods of non-use. You may also experience a musty taste when cold water pipes pass near unlagged hot water pipes or radiators, where they can become warm. Running your tap for a few minutes brings through fresh, cold water.
 
-### Metallic tastes
+## Metallic tastes
 
 Copper, iron, or galvanised water supply pipes that have corroded can produce a metallic or bitter taste.
 
 If the water has been standing in the water supply pipe for several hours, fill a washing-up bowl with water to draw fresh water through the pipe. Top tip: The water in the bowl can then be used for watering your garden plants, so it's not wasted.
 
-### Lead pipes
+## Lead pipes
 
 If your property was built before 1970, you may have a lead water supply pipe. Since then, it has been illegal to build new homes using lead fittings or pipes for water supply, but some older homes may still have lead water supply pipes.
 

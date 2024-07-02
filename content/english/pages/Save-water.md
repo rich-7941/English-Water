@@ -5,7 +5,7 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/save-water.jpg" alt="Water Sector Overview" >}}
-# Save water
+## Save water
 
 By using less water, you can save money on your bills while also helping the environment.
 
@@ -33,7 +33,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 ## Simple steps to save water and energy
 
-### In the bathroom
+## In the bathroom
 
 **Showers and baths:** Showers and baths use the most water in the home (30%). Reducing your shower time by 2 minutes can save over 5,000 liters of water and £130 off your energy bill each year.
 
@@ -43,7 +43,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 **Leaking toilets:** A leaking toilet can waste between 215 and 400 liters of water daily. Fix any leaks as soon as possible to save water.
 
-### In the kitchen
+## In the kitchen
 
 **Kettle:** Only fill the kettle with the water you need to save energy and time.
 
@@ -51,7 +51,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 **Washing machine:** Fully load your washing machine and use the eco setting where possible. Washing clothes at 30 degrees rather than 40 degrees reduces your machine’s energy consumption by 57%.
 
-### Outside
+## Outside
 
 **Washing the car:** Use a bucket and sponge instead of a hosepipe to wash the car to save water.
 
