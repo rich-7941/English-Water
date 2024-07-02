@@ -37,4 +37,6 @@ If you don’t have a strong enough flow of water coming through your taps, try 
 
 5. **Check your house for leaks:** Inspect your home for any leaking pipes that could cause a drop in pressure. Refer to our guide for locating household leaks.
 
-If you still experience low water pressure or have little to no running water, it might be due to a water supply pipe leak that needs replacement. Find a local water industry-approved plumber on WaterTrust.
+If you still experience low water pressure or have little to no running water, it might be due to a water supply pipe leak that needs replacement.
+
+Find a local water industry-approved plumber on WaterTrust.

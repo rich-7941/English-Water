@@ -5,7 +5,7 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/turning-your-water-on-or-off.jpg" alt="Water Sector Overview" >}}
-## Turning Your Water On or Off
+## Turning your water on or off
 
 Your stop tap, also known as a stopcock or stop valve, manages the cold water supply entering your home or business. Typically, properties have two stop taps: an internal one and an external one.
 
@@ -13,7 +13,7 @@ The internal stop tap controls the water inside the property, while the external
 
 You should only use your external stop tap in emergencies, such as a leak on the water supply pipe between your internal and external stop taps.
 
-## How to Find and Use Your Internal Stop Tap
+## How to find and use your internal stop tap
 
 Your internal stop tap is usually located in one of the following places and resembles a tap handle without a spout:
 
@@ -26,7 +26,7 @@ To turn it off, turn it clockwise (to the right). The water may take a while to 
 
 Contact a plumber if your tap doesn't turn or the water doesn't shut off within a few minutes.
 
-## Finding Your External Stop Tap
+## Finding your external stop tap
 
 Your external stop tap is typically found underneath a cover on the footpath or road outside your home or business. It could also be located:
 
@@ -35,11 +35,11 @@ Your external stop tap is typically found underneath a cover on the footpath or 
 
 Due to its location, take care when looking for or using your external stop tap to ensure your safety and avoid creating a hazard.
 
-## Using Your External Stop Tap
+## Using your external stop tap
 
 Do not use or rely on your external stop tap to turn off the water supply inside your home. Use your internal stop tap for this.
 
-### Turning Off the External Stop Tap
+## Turning off the external stop tap
 
 Before starting, check your internal stop tap and turn your water supply off. If it's seized, not working, or you can't find your internal stop tap, proceed to your external stop tap and turn the valve clockwise (to the right).
 
@@ -47,6 +47,6 @@ It will likely take several turns to stop the water flow, and it may take a coup
 
 When you reach a point where you cannot turn the stop tap anymore, stop. Do not use force to turn it further. If your home shares a water supply with neighbours, inform them before you start work, as turning off the external stop tap will also turn off their water supply.
 
-### Turning On the External Stop Tap
+## Turning on the external stop tap
 
 To turn the external stop tap back on and restore your water supply, turn it anti-clockwise (to the left). It may take a few turns to turn the water back on and a few minutes for the water to return to your taps as it makes its way through the pipework.

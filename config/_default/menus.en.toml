@@ -107,6 +107,11 @@ parent = "Emergencies"
 name = "Turning your water on or off"
 pageRef = "/Turning-water-on-off"
 
+[[main]]
+parent = "Emergencies"
+name = "Water leak detection"
+pageRef = "/water-leak-detection"
+
 
 [[main]]
 name = "About"

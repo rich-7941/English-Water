@@ -5,7 +5,8 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/approved-plumber.jpg" alt="Water Sector Overview" >}}
-## Find an Approved Plumber
+
+# Find an approved plumber
 
 Find a reputable, trustworthy water contractor for your needs.
 
@@ -40,5 +41,3 @@ While the initial cost of a relay—replacing the damaged water supply pipe with
 When a leak or burst pipe happens on your property, it can be stressful, and it's essential you find someone trustworthy and reputable to help.
 
 By using an Approved Water Contractor, you can be assured that the contractor you contact holds the correct qualifications, training, and Public and Employers Liability Insurance.
-
-###### Find an approved plumber

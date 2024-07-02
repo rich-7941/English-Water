@@ -6,52 +6,96 @@ image20: "/images/logo-darkmode.png"
 
 {{< image src="images/water-filters.jpg" alt="Water Sector Overview" >}}
 
-## Water sector overview
+# Water filters
 
-Every day, over 50 million household and non-household consumers in England and Wales receive good quality water, sanitation, and drainage services. These services are provided by privately-owned companies in England and Wales.
+Water is essential to our daily lives, and ensuring its purity is crucial for health and well-being. A water filter is one of the most effective ways to guarantee clean drinking water at home. This guide will explore the different types of home water filters, their benefits, and how to choose the right one for your needs.
 
-Since the water and sewerage industry was privatised in 1989, a regulatory framework has been in place to ensure that consumers receive high standards of service at a fair price. This framework has allowed the companies to invest more than £130 billion in maintaining and improving assets and services. The industry must also comply with relevant legislation.
+## Why use a home water filter?
 
-In this section, you can find out more about:
+Water filters are designed to remove impurities and contaminants from your drinking water, providing several benefits:
 
-- the [companies that are licensed to deliver water and sewerage services](#) in England and Wales
-- the [legal framework](#) under which they operate
+- **Improved taste and odour**: Filters can eliminate chlorine, sediment, and other substances that affect the taste and smell of water.
 
-Below you can find more about:
+- **Health benefits**: By removing harmful contaminants like lead, bacteria, and pesticides, water filters protect your health.
 
-- the regulatory framework that oversees, licenses, and monitors them
-- where you can find maps of water company areas
-- the history of the water sector in England and Wales
+- **Cost-effective**: Investing in a water filter can save money in the long run compared to buying bottled water.
 
-## Regulatory framework
+- **Environmental impact**: Using a water filter reduces plastic waste from bottled water.
 
-[Department for Environment, Food and Rural Affairs (Defra)](#)
+## Lead in water
 
-Sets the overall water and sewerage policy framework in England. This includes:
+Lead contamination is a concern, especially in older homes with lead pipes or fixtures. Lead can leach into the water supply, posing significant health risks for children and pregnant women.
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
+Using a water filter that specifically removes lead is one way to ensure your water is safe to drink. However, a more permanent solution is to replace lead water supply pipes. Once lead pipes are replaced, the need for a water filter specifically for lead is eliminated, providing a long-term solution for safe drinking water.
 
-[Welsh Government](#)
+## Types of water filters
 
-Sets the overall water and sewerage policy framework in Wales. This includes:
+There are several types of water filters for homes, each with its specific purpose and method of filtration:
 
-- standard setting
-- drafting of legislation
-- creating special permits (e.g. drought orders)
+### Activated carbon filters
 
-The Welsh Government and Defra work closely together on water issues.
+- **How they work**: These filters use activated carbon to adsorb contaminants.
 
-[Ofwat](#)
+- **What they remove**: Chlorine, volatile organic compounds (VOCs), and some heavy metals, including lead.
 
-We are the economic regulator of the water and sewerage sectors, we:
+- **Best for**: Improving taste and odour.
 
-- protect the interests of consumers, wherever appropriate by promoting competition
-- make sure that the water companies properly carry out their functions
-- ensure that the water companies can finance their functions
+### Reverse osmosis (RO) filters
 
-We also (among other things):
+- **How they work**: Water is forced through a semipermeable membrane that removes impurities.
 
-- promote economy and efficiency
-- contribute to the achievement of sustainable development
+- **What they remove**: Heavy metals, fluoride, nitrates, and a wide range of other contaminants.
+
+- **Best for**: Comprehensive filtration, especially in areas with high contamination.
+
+### Ultraviolet (UV) filters
+
+- **How they work**: UV light kills bacteria, viruses, and other microorganisms.
+
+- **What they remove**: Pathogens that can cause illness.
+
+- **Best for**: Ensuring microbiologically safe water.
+
+### Ceramic filters
+
+- **How they work**: Water passes through a ceramic material that filters out particles and microorganisms.
+
+- **What they remove**: Bacteria, sediment, and some pathogens.
+
+- **Best for**: Simple and effective filtration for bacteria and sediments.
+
+### Ion exchange filters
+
+- **How they work**: These filters use a resin to exchange ions with contaminants in the water.
+
+- **What they remove**: Hard water minerals (calcium and magnesium) and some heavy metals.
+
+- **Best for**: Softening water and removing specific heavy metals.
+
+## Choosing the right water filter
+
+When selecting a water filter for your home, consider the following factors:
+
+1. **Water quality**: Test your water to identify which contaminants are present. This will help you pick a filter that addresses your water quality issues effectively.
+
+2. **Filtration needs**: Determine whether you need point-of-use (e.g., kitchen tap) or point-of-entry (whole house) filtration.
+
+3. **Maintenance**: Consider proper water filter maintenance, including filter replacement frequency and cost.
+
+4. **Certification**: Look for filters certified by organisations like NSF International to ensure they meet performance standards.
+
+5. **Budget**: Evaluate the initial cost and ongoing expenses to find a filter that fits your budget.
+
+## Installation and maintenance tips
+
+1. **Follow manufacturer instructions**: Always follow the installation and maintenance instructions provided by the manufacturer.
+
+2. **Regular replacement**: Replace filters according to the recommended schedule to maintain effectiveness.
+
+3. **Check for leaks**: Regularly inspect your filter system for any leaks or issues.
+
+4. **Clean components**: Keep all components clean to ensure optimal performance.
+
+Choosing the right home water filter can significantly improve the safety and quality of your drinking water. By understanding the different types of filters and your specific needs, you can make an informed decision to ensure clean, great-tasting water for you and your family.
+
+If lead contamination is a concern, replacing your lead water supply pipes is the only way to eliminate lead from your water. You can find more information and advice here.

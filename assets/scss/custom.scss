@@ -513,3 +513,14 @@ nav {
 .fa-regular {
     font-family: 'Font Awesome 6 Free' !important;
 }
+
+.content :is(:where(a):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    --tw-text-opacity: 1;
+    color: #0f80be;
+    text-decoration-line: underline;
+}
+
+.content :is(:where(h1):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    font-size: 2.9859839999999997rem;
+    color: #000 !important;
+}
