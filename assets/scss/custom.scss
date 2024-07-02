@@ -532,3 +532,13 @@ nav {
 .content :is(:where(strong):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
     font-size: 16px;
 }
+
+// .featured .boxes .box img:hover {
+//     filter: opacity(0.5);
+//     position: relative;
+//     z-index: -1;
+// }
+
+.content img {
+    margin-top: -5rem !important;
+}
