@@ -7,7 +7,7 @@ image20: "/images/logo-darkmode.png"
 {{< image src="images/lead-pipes.jpg" alt="Water Sector Overview" >}}
 
 
-## Do you have a lead water supply pipe at home?
+## Do You Have a Lead Water Supply Pipe at Home?
 
 Lead has been used for plumbing since Roman times. If your house was built before 1970, there is a good chance you may have a lead water supply pipe.
 
@@ -25,49 +25,44 @@ A common misconception is that drinking water is safe if the amount of lead is b
 
 The UK water supply regulations in 1989 set the lead limit at 50 ppb. This was reduced to 25 ppb in 2003 and further to the current limit of 10 ppb in 2013. The European Parliament adopted the revised drinking water directive in 2020 that commits EU members to a limit of 5 ppb by 2036. The UK is likely to formally commit to a 5 ppb standard.
 
-## How to reduce lead in your drinking water
-
-If you have a lead water supply pipe, the only way to eliminate lead levels completely is to replace the pipe.
-
-## Find out if you have a lead water supply pipe
-
-You can follow these simple steps to find out whether your drinking water is at risk. You only need a coin and a kitchen magnet. If you do find lead, we’ll advise on what you can do.
-
-## What’s a water supply pipe?
+## What’s a Water Supply Pipe?
 
 When lead gets into tap water, it often happens right before it enters the home — through what is called a water supply pipe.
 
 A water supply pipe is the underground pipe that carries water to your house from the water main on the road. Often, the part up to the property line is considered public and may have been replaced by your water supplier. The water supply pipe is considered private property and the homeowner’s responsibility.
 
-## How do I know if I have a lead water supply pipe?
+## How Do I Know If I Have a Lead Water Supply Pipe?
 
-Find your internal stop tap, where the water first comes into the property. This may be in or behind the cupboards in your kitchen or a downstairs toilet.
+You can follow these simple steps to find out whether your drinking water is at risk. You only need a coin and a kitchen magnet. If you do find lead, we’ll advise on what you can do.
 
-Dull grey colour: Unpainted lead water supply pipes appear dull grey and often have a swollen joint next to the tap.
-Lead is soft: Gently scrape it with a coin, and you will see the shiny, silver-coloured metal beneath.
+1. **Find your internal stop tap**: Locate where the water first comes into the property. This may be in or behind the cupboards in your kitchen or a downstairs toilet.
 
-Tap the water supply pipe with a metal object: Lead makes a dull thud rather than the clear ringing produced by a copper or iron pipe.
+2. **Dull grey colour**: Unpainted lead water supply pipes appear dull grey and often have a swollen joint next to the tap.
 
-Magnetic: If a magnet sticks to the water supply pipe, then it is likely to be a galvanised steel water supply pipe and not lead.
+3. **Lead is soft**: Gently scrape it with a coin, and you will see the shiny, silver-coloured metal beneath.
 
-Look at the joints: Lead joints are rounded and swollen where two pipes meet.
+4. **Tap the water supply pipe with a metal object**: Lead makes a dull thud rather than the clear ringing produced by a copper or iron pipe.
+
+5. **Magnetic**: If a magnet sticks to the water supply pipe, then it is likely to be a galvanised steel water supply pipe and not lead.
+
+6. **Look at the joints**: Lead joints are rounded and swollen where two pipes meet.
 
 Other water supply pipe materials in common use are:
-- **Copper**: Hard and dull brown
-- **Iron**: Very hard, dark and may be rusty
-- **Plastic**: Typically blue, but if older, it may be black or grey
+- **Copper** – Hard and dull brown
+- **Iron** – Very hard, dark and may be rusty
+- **Plastic** – Typically blue, but if older, it may be black or grey
 
-## How does lead get into drinking water?
+## How Does Lead Get into Drinking Water?
 
 Lead from water supply pipes can dissolve into the water while it stands in the pipe. Therefore, if you have a lead water supply pipe, there will likely be some lead in your drinking water. The concentration of lead may depend on the following:
-- How long the water has been standing in the lead water supply pipe
-- The condition of the lead water supply pipe
-- The temperature of the water; more lead will dissolve during the summer and autumn months
-- Water hardness; harder water tends to form a protective scale over the surface of the lead water supply pipe which can reduce the concentration of lead in the water
+- **How long the water has been standing in the lead water supply pipe**
+- **The condition of the lead water supply pipe**
+- **The temperature of the water**: More lead will dissolve during the summer and autumn months.
+- **Water hardness**: Harder water tends to form a protective scale over the surface of the lead water supply pipe which can reduce the concentration of lead in the water.
 
 For all these reasons, lead in drinking water at a particular property may be present, and if so, actions should be taken to reduce this as far as possible.
 
-## How do I reduce lead levels in my drinking water?
+## How to Reduce Lead in Your Drinking Water
 
 For drinking and cooking, run the tap to clear any water that has been standing in the lead water supply pipe for a while, for example, overnight.
 
@@ -83,15 +78,15 @@ You can collect the water you flush and put it to good use, such as watering you
 
 Boiling your water might sterilise it, but it won't remove lead.
 
-## Who is responsible for which pipes?
+## Who Is Responsible for Which Pipes?
 
-The communication pipe is the pipe that connects the water main in the street to your outside stop valve on the (usually on the public highway) belongs to the water company.
+The communication pipe is the pipe that connects the water main in the street to your outside stop valve (usually on the public highway) and belongs to the water company.
 
 The water supply pipe that leads from the outside stop valve to your property to the point where it enters your home is the responsibility of the owner.
 
-## What should I do if I want to replace my lead water supply pipe?
+## What Should I Do If I Want to Replace My Lead Water Supply Pipe?
 
-It is advisable to replace a lead water supply pipe. If you are planning on replacing your lead water supply pipe, we recommend that you employ a water industry-approved plumber to carry out the work accredited by WaterTrust.
+If you have a lead water supply pipe, the only way to eliminate lead levels completely is to replace the pipe. If you are planning on replacing your lead water supply pipe, we recommend that you employ a water industry-approved plumber to carry out the work accredited by WaterTrust.
 
 When your lead water supply pipe has been replaced, your WaterTrust-approved plumber will also notify your water supplier because they are then legally required to replace the communication pipe on the public highway if it is made of lead and is at risk of contributing to the amount of lead in the drinking water supply.
 

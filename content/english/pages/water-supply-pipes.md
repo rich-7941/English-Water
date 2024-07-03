@@ -5,7 +5,7 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/water-supplier-grants.jpg" alt="Water Sector Overview" >}}
-## Water supply pipe replacement
+# Water supply pipe replacement
 
 If you suspect that your water supply pipe might need repair or replacement on your property, the following advice can assist you in finding the right solution.
 

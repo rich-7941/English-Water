@@ -6,7 +6,7 @@ image20: "/images/logo-darkmode.png"
 
 {{< image src="images/high-water-bill.jpg" alt="Water Sector Overview" >}}
 
-## High water bill
+# High water bill
 
 ## Is your bill higher than normal?
 

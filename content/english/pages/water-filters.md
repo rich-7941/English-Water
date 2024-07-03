@@ -6,7 +6,7 @@ image20: "/images/logo-darkmode.png"
 
 {{< image src="images/water-filters.jpg" alt="Water Sector Overview" >}}
 
-## Water filters
+# Water filters
 
 Water is essential to our daily lives, and ensuring its purity is crucial for health and well-being. A water filter is one of the most effective ways to guarantee clean drinking water at home. This guide will explore the different types of home water filters, their benefits, and how to choose the right one for your needs.
 

@@ -5,7 +5,7 @@ image20: "/images/logo-darkmode.png"
 ---
 {{< image src="images/water-leak.jpg" alt="Water Sector Overview" >}}
 
-## Water leaks
+# Water leaks
 
 Leaks within or on your property are your responsibility. Our comprehensive guide provides advice on what to do when you encounter a leak at home. This includes identifying leaks, checking pipe responsibility, and arranging repairs.
 

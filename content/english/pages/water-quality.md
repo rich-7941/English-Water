@@ -6,7 +6,7 @@ image20: "/images/logo-darkmode.png"
 
 {{< image src="images/water-quality.jpg" alt="Water Sector Overview" >}}
 
-## Water quality
+# Water quality
 
 What to do if your water looks unusual
 

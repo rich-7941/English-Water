@@ -5,7 +5,7 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/save-water.jpg" alt="Water Sector Overview" >}}
-## Save water
+# Save water
 
 By using less water, you can save money on your bills while also helping the environment.
 

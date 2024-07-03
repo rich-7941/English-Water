@@ -507,6 +507,8 @@ nav .main .fa-bars {
     margin-top: -5rem !important;
 }
 
-img[loading="lazy"] {
-    loading: auto !important;
+.content :is(:where(h1):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+    font-size: 44px;
+    font-weight: 600;
+    color: #000 !important;
 }
