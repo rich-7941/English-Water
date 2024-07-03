@@ -6,7 +6,7 @@
 <!-- theme meta -->
 <meta name="theme-name" content="hugoplate" />
 <base href="https://english-water.netlify.app/">
-<!--   <base href="http://localhost:1313/">  -->
+<!-- <base href="http://localhost:1313/">  -->
 <!-- favicon -->
 {{ partialCached "favicon" . }}
 
@@ -31,23 +31,23 @@
 {{ partial "mermaid/assets/js" . }}
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    function isMobile() {
-      return /Mobi|Android/i.test(navigator.userAgent);
-    }
+    document.addEventListener("DOMContentLoaded", function () {
+        function isMobile() {
+            return /Mobi|Android/i.test(navigator.userAgent);
+        }
 
-    function disableLazyLoadingForCriticalImages() {
-      // Select images that are critical for the initial viewport
-      const criticalImages = document.querySelectorAll('img.mx-auto');
+        function disableLazyLoadingForCriticalImages() {
+            // Select images that are critical for the initial viewport
+            const criticalImages = document.querySelectorAll('img.mx-auto');
 
-      // Remove lazy loading from critical images
-      criticalImages.forEach(img => {
-        img.removeAttribute('loading');
-      });
-    }
+            // Remove lazy loading from critical images
+            criticalImages.forEach(img => {
+                img.removeAttribute('loading');
+            });
+        }
 
-    if (isMobile()) {
-      disableLazyLoadingForCriticalImages();
-    }
-  });
+        if (isMobile()) {
+            disableLazyLoadingForCriticalImages();
+        }
+    });
 </script>
