@@ -129,19 +129,19 @@ notAlternative = true
 # CSS Plugins
 [[params.plugins.css]]
 link = "plugins/swiper/swiper-bundle.css"
-lazy = true
+lazy = false
 [[params.plugins.css]]
 link = "plugins/glightbox/glightbox.css"
 lazy = true
 [[params.plugins.css]]
 link = "plugins/font-awesome/v6/brands.css"
-lazy = true
+lazy = false
 [[params.plugins.css]]
 link = "plugins/font-awesome/v6/solid.css"
-lazy = true
+lazy = false
 [[params.plugins.css]]
 link = "plugins/font-awesome/v6/icons.css"
-lazy = true
+lazy = false
 
 # JS Plugins
 [[params.plugins.js]]
@@ -171,3 +171,12 @@ lazy = false
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js"
 lazy = false
+
+
+[params]
+minify = true
+
+[minify]
+disableXML = true
+disableCSS = false
+disableJS = false
