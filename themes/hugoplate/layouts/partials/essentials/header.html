@@ -241,57 +241,37 @@
   // ================responsive Nav============
   // ================responsive Nav============
 
-  const navResBar = document.getElementById("navResBar")
-  const resNavbar = document.getElementById("resNavbar")
+  const navResBar = document.getElementById("navResBar");
+  const resNavbar = document.getElementById("resNavbar");
 
+  // Toggle responsive navbar visibility
   navResBar.addEventListener('click', () => {
-    resNavbar.classList.toggle("resNavbarUnset")
-  })
+    resNavbar.classList.toggle("resNavbarUnset");
+  });
 
-
-  const navClickResHome = document.getElementById("navClickResHome")
-  const navClickResShow = document.getElementById("navClickResShow")
+  // Toggle Home section visibility
+  const navClickResHome = document.getElementById("navClickResHome");
+  const navClickResShow = document.getElementById("navClickResShow");
 
   navClickResHome.addEventListener('click', () => {
-    navClickResShow.classList.toggle("navClickResShow")
-  })
+    navClickResShow.classList.toggle("navClickResShow");
+  });
 
-  const navClickResAbout = document.getElementById("navClickResAbout")
-  const navClickResShowAbout = document.getElementById("navClickResShowAbout")
+  // Toggle About section visibility
+  const navClickResAbout = document.getElementById("navClickResAbout");
+  const navClickResShowAbout = document.getElementById("navClickResShowAbout");
 
   navClickResAbout.addEventListener('click', () => {
-    navClickResShowAbout.classList.toggle("navClickResShowAbout")
-  })
+    navClickResShowAbout.classList.toggle("navClickResShowAbout");
+  });
 
-  const navClickResServices = document.getElementById("navClickResServices")
-  const navClickResShowServices = document.getElementById("navClickResShowServices")
+  // Toggle Services section visibility
+  const navClickResServices = document.getElementById("navClickResServices");
+  const navClickResShowServices = document.getElementById("navClickResShowServices");
 
   navClickResServices.addEventListener('click', () => {
-    navClickResShowServices.classList.toggle("navClickResShowAbout")
-  })
-
-
-  const navClickResBlog = document.getElementById("navClickResBlog")
-  const navClickResShowBlog = document.getElementById("navClickResShowBlog")
-
-  navClickResBlog.addEventListener('click', () => {
-    navClickResShowBlog.classList.toggle("navClickResShowAbout")
-  })
-
-
-  const navClickResNext = document.getElementById("navClickResNext")
-  const navClickResShowNext = document.getElementById("navClickResShowNext")
-
-  navClickResNext.addEventListener('click', () => {
-    navClickResShowNext.classList.toggle("navClickResShowAbout")
-  })
-
-
-</script>
-
-<script>
-  document.querySelectorAll('img').forEach(img => {
-    img.removeAttribute('loading');
+    navClickResShowServices.classList.toggle("navClickResShowAbout");
   });
+
 
 </script>
