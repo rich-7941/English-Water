@@ -167,7 +167,7 @@ link = "js/tab.js"
 lazy = true
 [[params.plugins.js]]
 link = "js/modal.js"
-lazy = true
+lazy = false
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js"
-lazy = true
+lazy = false
