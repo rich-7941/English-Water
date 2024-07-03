@@ -506,3 +506,7 @@ nav .main .fa-bars {
 .content img {
     margin-top: -5rem !important;
 }
+
+img[loading="lazy"] {
+    loading: auto !important;
+}
