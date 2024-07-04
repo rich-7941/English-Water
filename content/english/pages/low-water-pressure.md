@@ -7,21 +7,11 @@ image20: "/images/logo-darkmode.png"
 {{< image src="images/low-water-pressure.jpg" alt="Water Sector Overview" >}}
 # Low pressure or no water
 
-Water pressure refers to the force exerted by water as it moves through the pipes, influencing the strength of the flow coming out of your tap.
+Water pressure is the force exerted by water as it moves through pipes, determining the strength of the flow from your taps.
 
-## What should I do if I have a problem with water pressure?
+If you notice low water pressure, start by checking for plumbing issues within your property. Common culprits include a partially closed internal stop tap or a leak.
 
-If you’re experiencing low water pressure, first check for plumbing issues within your property, such as a partially closed internal stop tap or a leak.
-
-## What else can affect your water pressure?
-
-Modern heating appliances and showers often require a certain pressure level to function properly. Before installing such equipment, consult your water company to ensure that the pressure in your area is sufficient for these systems.
-
-## No water or low water pressure?
-
-Our checklist explains the potential reasons for no water or low pressure and how to address these issues.
-
-When you turn on your taps, you should expect the water pressure to be strong enough to fill a glass or kettle easily. If the pressure drops to a trickle or stops completely, don’t panic.
+Modern heating appliances and showers often require a specific pressure level to function properly. When you turn on your taps, you should expect the water pressure to be strong enough to fill a glass or kettle quickly. If the pressure drops to a trickle or stops altogether, don’t panic.
 
 ## What to do if you have low water pressure
 
@@ -39,4 +29,4 @@ If you don’t have a strong enough flow of water coming through your taps, try 
 
 If you still experience low water pressure or have little to no running water, it might be due to a water supply pipe leak that needs replacement.
 
-Find a local water industry-approved plumber on WaterTrust.
+Find a water industry certified contractor on WaterTrust.

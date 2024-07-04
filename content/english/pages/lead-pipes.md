@@ -84,10 +84,10 @@ The communication pipe is the pipe that connects the water main in the street to
 
 The water supply pipe that leads from the outside stop valve to your property to the point where it enters your home is the responsibility of the owner.
 
-## What should I do if I Want to replace my lead water supply pipe?
+## What should I do if I want to replace my lead water supply pipe?
 
-If you have a lead water supply pipe, the only way to eliminate lead levels completely is to replace the pipe. If you plan on replacing your lead water supply pipe, we recommend employing a water industry-certified contractor to carry out the work accredited by WaterTrust.
+If you have a lead water supply pipe, the only way to eliminate lead levels completely is to replace the pipe. If you are planning on replacing your lead water supply pipe, we recommend that you employ a water industry certified contractor to carry out the work accredited by WaterTrust.
 
-When your lead water supply pipe has been replaced, your WaterTrust-certified contractor will also notify your water supplier because they are then legally required to replace the communication pipe on the public highway if it is made of lead and is at risk of contributing to the amount of lead in the drinking water supply.
+When your lead water supply pipe has been replaced, your WaterTrust certified contractor will also notify your water supplier because they are then legally required to replace the communication pipe on the public highway at their expense if it is made of lead and is at risk of contributing to the amount of lead in the drinking water supply.
 
-Details of WaterTrust certified contractors are available here.
+Find more information on WaterTrust certified contractors here.
