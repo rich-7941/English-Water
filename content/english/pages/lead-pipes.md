@@ -7,7 +7,7 @@ image20: "/images/logo-darkmode.png"
 {{< image src="images/lead-pipes.jpg" alt="Water Sector Overview" >}}
 
 
-## Do You Have a Lead Water Supply Pipe at Home?
+# Lead pipes
 
 Lead has been used for plumbing since Roman times. If your house was built before 1970, there is a good chance you may have a lead water supply pipe.
 

@@ -8,8 +8,6 @@ image20: "/images/logo-darkmode.png"
 
 # High water bill
 
-## Is your bill higher than normal?
-
 If your bill is higher than usual, we know it can be worrying, which is why we're here to help you - there might be a simple explanation.
 
 The most common cause of high bills is using lots of water. You may be using more water just by being at home more often than usual. Take a moment and think about the water you've used recently.

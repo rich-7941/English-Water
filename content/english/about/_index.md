@@ -14,8 +14,6 @@ Welcome to English Water, your source for reliable advice and comprehensive info
 
 At English Water, we aim to provide clear, concise, and accurate information to help you understand and navigate the complexities of your water supply. We recognise homeowners' challenges, from dealing with leaks and low water pressure to understanding water bills and meters. Our goal is to simplify these issues and offer practical solutions.
 
-## What We Do
-
 ## Expert Advice
 
 Our team of water supply specialists and industry experts offers valuable insights and advice on various topics, including leak detection, lead pipe replacement, water quality, and more. We delve into the specifics of each issue to provide you with actionable guidance.

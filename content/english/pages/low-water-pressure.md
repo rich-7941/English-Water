@@ -5,7 +5,7 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/low-water-pressure.jpg" alt="Water Sector Overview" >}}
-## What is water pressure?
+# Low pressure or no water
 
 Water pressure refers to the force exerted by water as it moves through the pipes, influencing the strength of the flow coming out of your tap.
 

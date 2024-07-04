@@ -5,7 +5,7 @@ image20: "/images/logo-darkmode.png"
 ---
 
 {{< image src="images/my-water-supplier.jpg" alt="Water Sector Overview" >}}
-## Who is my water supplier?
+# My water supplier
 
 Most customers receive their water and sewerage services from monopoly suppliers. Your bill should indicate which company provides these services.
 
