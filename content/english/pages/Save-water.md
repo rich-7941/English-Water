@@ -7,11 +7,7 @@ image20: "/images/logo-darkmode.png"
 {{< image src="images/save-water.jpg" alt="Water Sector Overview" >}}
 # Save water
 
-By using less water, you can save money on your bills while also helping the environment.
-
-What are the benefits of saving water?
-
-Using less water can help you save money on your water bill if you have a water meter. Reducing hot water usage can also significantly lower your energy bill.
+By using less water, you can save money on your bills while also helping the environment. Also, using less water can help you save money on your water bill if you have a water meter. Reducing hot water usage can also significantly lower your energy bill.
 
 Saving water benefits the environment as it reduces the carbon footprint associated with treating and transporting water. Additionally, it ensures more water is available for our rivers and streams during dry spells, which supports local wildlife.
 
@@ -33,7 +29,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 ## Simple steps to save water and energy
 
-## In the bathroom
+**In the bathroom**
 
 **Showers and baths:** Showers and baths use the most water in the home (30%). Reducing your shower time by 2 minutes can save over 5,000 liters of water and £130 off your energy bill each year.
 
@@ -43,7 +39,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 **Leaking toilets:** A leaking toilet can waste between 215 and 400 liters of water daily. Fix any leaks as soon as possible to save water.
 
-## In the kitchen
+**In the kitchen**
 
 **Kettle:** Only fill the kettle with the water you need to save energy and time.
 
@@ -51,7 +47,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 **Washing machine:** Fully load your washing machine and use the eco setting where possible. Washing clothes at 30 degrees rather than 40 degrees reduces your machine’s energy consumption by 57%.
 
-## Outside
+**Outside**
 
 **Washing the car:** Use a bucket and sponge instead of a hosepipe to wash the car to save water.
 
@@ -59,7 +55,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 **Water butt:** Collect rainwater in a water butt. Rainwater is better for plants as it contains nitrogen, which helps them thrive. A small roof collects over 45,000 liters of water each year, enough to keep your water butt topped up.
 
-## Additional tips
+**Additional tips**
 
 **Showering:** Showers make up 40% of the average household’s daily water usage. Reducing your shower time by one minute can save a family of four around £150 a year.
 
@@ -75,7 +71,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 **Food preparation:** Only use the amount of water you need when filling kettles or saucepans. Reuse water from washing vegetables for plants.
 
-## Garden tips
+**Garden tips**
 
 **Water-efficient garden:** Plant drought-tolerant plants like lavender, geranium, and rosemary to reduce water usage.
 
@@ -91,7 +87,7 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 **Check the weather:** Avoid watering if rain is forecast and water plants in the early morning or evening to prevent evaporation.
 
-## Outdoor fun
+**Outdoor fun**
 
 **Fun in the garden:** Cover paddling pools when not in use, reuse paddling pool water on plants, fill pools with less water, and use water guns instead of hosepipes for water fights.
 
