@@ -8,9 +8,7 @@ image20: "/images/logo-darkmode.png"
 
 # Water quality
 
-What to do if your water looks unusual
-
-If your water appears discoloured, has particles in it, or seems cloudy, here's what might be causing the change and how to fix it.
+If your water looks unusual or appears discoloured, has particles in it, or seems cloudy, here’s what might be causing the change and how to fix it.
 
 ## Why is my water cloudy/discoloured?
 
@@ -65,4 +63,4 @@ If you have lead water supply pipes, replacing them is the only way to eliminate
 - Run the taps before using any water for cooking or drinking. Flushing through any water that has been standing in the pipes for several hours will mean the water you use is less likely to have absorbed lead.
 - Boiling water will not remove the lead from it.
 
-If you have a lead water supply pipe, you can replace it with a modern mdpe pipe using a WaterTrust-approved plumber.
+If you have a lead water supply pipe, you can replace it with a modern MDPE pipe using a WaterTrust certified contractor.

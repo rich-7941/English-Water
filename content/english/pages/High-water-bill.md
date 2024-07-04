@@ -28,10 +28,8 @@ The two most common reasons for a higher bill are estimated readings or simply u
 
 ## Check for leaks
 
-If you still think your bill is high, you may have a leak. It's important to regularly check for leaks in your home to avoid wasting water and causing your bill to increase.
+If you still think your bill is high, you may have a leak. It’s important to regularly check for leaks in your home to avoid wasting water and causing your bill to increase. Even a leaking toilet can waste up to 215 litres a day, which amounts to £200 a year.
 
-A leaking toilet can waste up to 215 litres a day, which amounts to £200 a year.
+Should you find and fix a leak within 30 days, you may qualify for a leak allowance. You’ll need to provide a meter reading after the repair and another reading two weeks later.
 
-If you've ruled out dripping taps and leaking toilets, then you may have a water supply pipe leak. Follow our advice on how to check for a water supply pipe leak.
-
-If you find and fix a leak within 30 days, you may qualify for a leak allowance. You'll need to provide a meter reading after the repair and another reading two weeks later.
+If you’ve ruled out dripping taps and leaking toilets, then you may have a water supply pipe leak. Follow our advice on how to check for a water supply pipe leak here.

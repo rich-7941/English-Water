@@ -32,7 +32,7 @@ Using a water filter that specifically removes lead is one way to ensure your wa
 
 There are several types of water filters for homes, each with its specific purpose and method of filtration:
 
-## Activated carbon filters
+**Activated carbon filters**
 
 - **How they work**: These filters use activated carbon to adsorb contaminants.
 
@@ -40,7 +40,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Improving taste and odour.
 
-## Reverse osmosis (RO) filters
+**Reverse osmosis (RO) filters**
 
 - **How they work**: Water is forced through a semipermeable membrane that removes impurities.
 
@@ -48,7 +48,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Comprehensive filtration, especially in areas with high contamination.
 
-## Ultraviolet (UV) filters
+**Ultraviolet (UV) filters**
 
 - **How they work**: UV light kills bacteria, viruses, and other microorganisms.
 
@@ -56,7 +56,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Ensuring microbiologically safe water.
 
-## Ceramic filters
+**Ceramic filters**
 
 - **How they work**: Water passes through a ceramic material that filters out particles and microorganisms.
 
@@ -64,7 +64,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Simple and effective filtration for bacteria and sediments.
 
-## Ion exchange filters
+**Ion exchange filters**
 
 - **How they work**: These filters use a resin to exchange ions with contaminants in the water.
 
@@ -72,7 +72,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Softening water and removing specific heavy metals.
 
-## Choosing the right water filter
+**Choosing the right water filter**
 
 When selecting a water filter for your home, consider the following factors:
 
@@ -86,7 +86,7 @@ When selecting a water filter for your home, consider the following factors:
 
 5. **Budget**: Evaluate the initial cost and ongoing expenses to find a filter that fits your budget.
 
-## Installation and maintenance tips
+**Installation and maintenance tips**
 
 1. **Follow manufacturer instructions**: Always follow the installation and maintenance instructions provided by the manufacturer.
 
