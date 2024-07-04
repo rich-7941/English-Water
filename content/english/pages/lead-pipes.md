@@ -31,7 +31,7 @@ When lead gets into tap water, it often happens right before it enters the home 
 
 A water supply pipe is the underground pipe that carries water to your house from the water main on the road. Often, the part up to the property line is considered public and may have been replaced by your water supplier. The water supply pipe is considered private property and the homeowner’s responsibility.
 
-## How Do I Know If I Have a Lead Water Supply Pipe?
+## How do I know if I have a lead water supply pipe?
 
 You can follow these simple steps to find out whether your drinking water is at risk. You only need a coin and a kitchen magnet. If you do find lead, we’ll advise on what you can do.
 
@@ -52,7 +52,7 @@ Other water supply pipe materials in common use are:
 - **Iron** – Very hard, dark and may be rusty
 - **Plastic** – Typically blue, but if older, it may be black or grey
 
-## How Does Lead Get into Drinking Water?
+## How does lead get into drinking water?
 
 Lead from water supply pipes can dissolve into the water while it stands in the pipe. Therefore, if you have a lead water supply pipe, there will likely be some lead in your drinking water. The concentration of lead may depend on the following:
 - **How long the water has been standing in the lead water supply pipe**
@@ -62,7 +62,7 @@ Lead from water supply pipes can dissolve into the water while it stands in the 
 
 For all these reasons, lead in drinking water at a particular property may be present, and if so, actions should be taken to reduce this as far as possible.
 
-## How to Reduce Lead in Your Drinking Water
+## How to reduce lead in your drinking water
 
 For drinking and cooking, run the tap to clear any water that has been standing in the lead water supply pipe for a while, for example, overnight.
 
@@ -78,13 +78,13 @@ You can collect the water you flush and put it to good use, such as watering you
 
 Boiling your water might sterilise it, but it won't remove lead.
 
-## Who Is Responsible for Which Pipes?
+## who is responsible for which pipes?
 
 The communication pipe is the pipe that connects the water main in the street to your outside stop valve (usually on the public highway) and belongs to the water company.
 
 The water supply pipe that leads from the outside stop valve to your property to the point where it enters your home is the responsibility of the owner.
 
-## What Should I Do If I Want to Replace My Lead Water Supply Pipe?
+## What should I do if I Want to replace my lead water supply pipe?
 
 If you have a lead water supply pipe, the only way to eliminate lead levels completely is to replace the pipe. If you are planning on replacing your lead water supply pipe, we recommend that you employ a water industry-approved plumber to carry out the work accredited by WaterTrust.
 

@@ -48,12 +48,12 @@ There aren’t always clear signs of a leak, such as a damp patch or water bubbl
 
 6. **If the red dial is not moving**
 
-   If the red dial is not moving, there might be an issue in the pipework or plumbing inside your home. This is your responsibility, so you’ll need to call a plumber to fix the problem.
+   If the red dial is not moving, there might be an issue in the pipework or plumbing inside your home. This is your responsibility, so you’ll need to call a certified contractor to fix the problem.
 
-If you are a tenant, it's your landlord’s responsibility to find and repair the leak. Please inform them if you have a leak.
+If you are a tenant, it’s your landlord’s responsibility to find and repair the leak. Please inform them if you have a leak.
 
-If the leak is outside your home but still on your property, you’ll need specialist water contractors. They can perform water supply pipe leak detection, repairs, and replacements.
+If the leak is outside your home but still on your property, you’ll need the services of a specialist water contractor. They can carry out water supply pipe replacements, which are always recommended as patch repairs are prone to leak again.
 
-These contractors are approved WaterTrust plumbers and work in compliance with UK Byelaws and Water Fittings Regulations.
+These contractors are WaterTrust certified, a mark of their expertise and commitment to quality. They work in compliance with UK Byelaws and Water Fittings Regulations, ensuring that your leak is handled professionally and in line with water industry standards.
 
-We recommend contacting a WaterTrust-approved plumber by visiting this dedicated webpage.
+We recommend contacting a WaterTrust certified contractor.
