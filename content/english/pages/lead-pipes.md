@@ -25,7 +25,7 @@ A common misconception is that drinking water is safe if the amount of lead is b
 
 The UK water supply regulations in 1989 set the lead limit at 50 ppb. This was reduced to 25 ppb in 2003 and further to the current limit of 10 ppb in 2013. The European Parliament adopted the revised drinking water directive in 2020 that commits EU members to a limit of 5 ppb by 2036. The UK is likely to formally commit to a 5 ppb standard.
 
-## What’s a Water Supply Pipe?
+## What’s a water supply pipe?
 
 When lead gets into tap water, it often happens right before it enters the home — through what is called a water supply pipe.
 

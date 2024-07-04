@@ -1,5 +1,5 @@
 ---
-title: "Approved Plumbers"
+title: "Certified contractors"
 image19: "/images/logo.png"
 image20: "/images/logo-darkmode.png"
 ---
@@ -48,4 +48,4 @@ When a leak or burst pipe happens on your property, it can be stressful, and it'
 
 By using an approved Water Contractor, you can be assured that the contractor you contact holds the correct qualifications, training, and Public and Employers Liability Insurance.
 
-###### Find an approved Certified Contractors
+###### Find an certified contractors
