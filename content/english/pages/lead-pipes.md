@@ -78,7 +78,7 @@ You can collect the water you flush and put it to good use, such as watering you
 
 Boiling your water might sterilise it, but it won't remove lead.
 
-## who is responsible for which pipes?
+## Who is responsible for which pipes?
 
 The communication pipe is the pipe that connects the water main in the street to your outside stop valve (usually on the public highway) and belongs to the water company.
 
@@ -86,8 +86,8 @@ The water supply pipe that leads from the outside stop valve to your property to
 
 ## What should I do if I Want to replace my lead water supply pipe?
 
-If you have a lead water supply pipe, the only way to eliminate lead levels completely is to replace the pipe. If you are planning on replacing your lead water supply pipe, we recommend that you employ a water industry-approved plumber to carry out the work accredited by WaterTrust.
+If you have a lead water supply pipe, the only way to eliminate lead levels completely is to replace the pipe. If you plan on replacing your lead water supply pipe, we recommend employing a water industry-certified contractor to carry out the work accredited by WaterTrust.
 
-When your lead water supply pipe has been replaced, your WaterTrust-approved plumber will also notify your water supplier because they are then legally required to replace the communication pipe on the public highway if it is made of lead and is at risk of contributing to the amount of lead in the drinking water supply.
+When your lead water supply pipe has been replaced, your WaterTrust-certified contractor will also notify your water supplier because they are then legally required to replace the communication pipe on the public highway if it is made of lead and is at risk of contributing to the amount of lead in the drinking water supply.
 
-Details of qualified contractors are available on the WaterTrust website.
+Details of WaterTrust certified contractors are available here.
