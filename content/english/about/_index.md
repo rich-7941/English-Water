@@ -6,7 +6,7 @@ image19: "/images/logo.png"
 image20: "/images/logo-darkmode.png"
 ---
 
-## About Us
+# About Us
 
 Welcome to English Water, your source for reliable advice and comprehensive information on domestic water supply in England.
 
@@ -16,15 +16,15 @@ At English Water, we aim to provide clear, concise, and accurate information to 
 
 ## What We Do
 
-### Expert Advice
+## Expert Advice
 
 Our team of water supply specialists and industry experts offers valuable insights and advice on various topics, including leak detection, lead pipe replacement, water quality, and more. We delve into the specifics of each issue to provide you with actionable guidance.
 
-### In-Depth Guides
+## In-Depth Guides
 
 Our guides cover everything you need to know, whether you're facing a water emergency or planning a home improvement project. From step-by-step instructions on fixing common problems to detailed explanations of water regulations and grants, we provide the information you need to make informed decisions.
 
-### Resourceful Tips
+## Resourceful Tips
 
 Our articles offer practical tips and tricks to help you save water, reduce your bills, and improve the efficiency of your water system.
 
