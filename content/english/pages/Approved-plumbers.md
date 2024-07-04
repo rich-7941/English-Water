@@ -20,11 +20,11 @@ Therefore, we recommend you select a plumber who is a member of WaterTrust.
 
 Using a WaterTrust-approved plumber will provide you with the following benefits:
 
-● Approved plumbers are qualified to carry out plumbing work in homes and business premises. They comply with the Water Fittings Regulations, ensuring there is no risk from substandard installation or uncertified materials that could contaminate your drinking water supply.
+● Certified contractors are qualified to carry out plumbing work in homes and business premises. They comply with the Water Fittings Regulations, ensuring there is no risk from substandard installation or uncertified materials that could contaminate your drinking water supply.
 
 ● They will issue a certificate for their work, certifying it complies with UK Water Regulations.
 
-● Approved plumbers can carry out work without providing advance notification to your water supplier.
+● Certified contractors can carry out work without providing advance notification to your water supplier.
 
 ● Approved businesses hold employers and public liability insurance.
 
