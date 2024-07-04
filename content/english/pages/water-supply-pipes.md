@@ -7,13 +7,9 @@ image20: "/images/logo-darkmode.png"
 {{< image src="images/water-supplier-grants.jpg" alt="Water Sector Overview" >}}
 # Water supply pipes
 
-If you suspect that your water supply pipe might need repair or replacement on your property, the following advice can assist you in finding the right solution.
-
-You may have noticed a leak, experienced low water flow or pressure, or you might be renovating and it's time to replace old lead pipes. If you are replacing the water supply pipe on your property, you will also need to inform your water supplier, as they may need to replace or modify their part of the water supply pipe too.
+If you suspect that your water supply pipe might need repair or replacement on your property, the following advice can assist you in finding the right solution. You may have noticed a leak or experienced low water flow or pressure, or you might be renovating, and it’s time to replace old lead pipes.
 
 ## Signs of a damaged water supply pipe
-
-## Low flow
 
 The flow of water into your property depends on the condition of your water supply pipe. If your water supply pipe is in poor condition, the amount of water it carries could be restricted, thereby reducing the flow of water to your taps. This can be caused by:
 
@@ -42,16 +38,12 @@ These costs can quickly add up and can easily exceed the cost of a water supply 
 
 ## Renovating your property?
 
-Renovating is a good opportunity for water supply pipe replacement. If you are renovating an area of your home, this is a good time to inspect the newly exposed plumbing for any worrisome signs.
+When it comes to water supply pipe replacement, it's crucial to choose a reliable and certified contractor. We strongly recommend opting for a WaterTrust certified contractor for this specialist job.
 
-If the water supply pipe needs replacing, doing so while it is exposed for other work will save you money in the long run, as you won’t have to re-expose the water supply pipe for the replacement to take place.
+This will ensure the work undertaken complies with UK Water Regulations and Byelaws, meets high standards, and protects the quality of drinking water in your home.
 
-This is especially important if you are having your driveway done - replacing your water supply pipe at the same time will save a lot of distress, as your driveway will need to be disrupted to access your water supply pipe if it is done at a later date.
+WaterTrust certified contractors are specialists in installing new underground water supply pipes from the external public highway boundary up to the internal stop tap.
 
-Water supply pipe replacement is a specialist job; therefore, we recommend choosing a WaterTrust-approved plumber.
+Find a WaterTrust certified contractor
 
-This will ensure the work undertaken complies with UK Water Regulations and Byelaws, meets high standards, and protects the quality of drinking water in your home. If you’re planning to replace the underground water supply pipe from the external highway boundary up to the internal stop tap, you may require a specialist contractor.
 
-WaterTrust-approved plumbers are certified to carry out new water supply pipe installations.
-
-Find a WaterTrust-approved plumber

@@ -6,7 +6,7 @@ image20: "/images/logo-darkmode.png"
 
 {{< image src="images/approved-plumber.jpg" alt="Water Sector Overview" >}}
 
-# Approved Plumbers
+# Certified contractors
 
 Find a reputable, trustworthy water contractor for your needs.
 
