@@ -91,4 +91,4 @@ Around one-fifth of the average household’s heating bills are spent on heating
 
 **Fun in the garden:** Cover paddling pools when not in use, reuse paddling pool water on plants, fill pools with less water, and use water guns instead of hosepipes for water fights.
 
-By following these tips, you can make a significant impact on your water usage, save money on your bills, and contribute to a more sustainable environment.
+By following these tips, you can make a significant impact on your water usage, save money on your bills, and contribute to a more sustainable environment. If you think you may have a water supply pipe leak, you can see our water leaks guide here.

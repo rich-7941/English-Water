@@ -25,4 +25,4 @@ Disputes over shared water supply pipes are civil matters, meaning your water su
 
 The shared supply will continue to serve your neighbours and remain in place unless all connected properties arrange for individual supplies.
 
-If you want to install a separate water supply pipe and are currently on a shared one, it is advisable to use a WaterTrust-approved plumber.
+If you want to install a separate water supply pipe and are currently on a shared one, it is advisable to use a WaterTrust certified contractor.
