@@ -29,4 +29,4 @@ If you don’t have a strong enough flow of water coming through your taps, try 
 
 If you still experience low water pressure or have little to no running water, it might be due to a water supply pipe leak that needs replacement.
 
-Find a water industry certified contractor on WaterTrust.
+Find a [water industry certified contractor](/approved-plumbers) on WaterTrust.
