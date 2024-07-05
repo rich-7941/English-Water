@@ -25,7 +25,7 @@ If you don’t have a strong enough flow of water coming through your taps, try 
 
 4. **Further checks:** Besides your main stop tap, ensure any other taps controlling flow to your hot water system or other devices are turned on. If you have a thermostatic shower, check if the thermostat needs adjusting.
 
-5. **Check your house for leaks:** Inspect your home for any leaking pipes that could cause a drop in pressure. Refer to our guide for locating household leaks.
+5. **Check your house for leaks:** Inspect your home for any leaking pipes that could cause a drop in pressure. Refer to our [guide for locating household leaks](/water-leak).
 
 If you still experience low water pressure or have little to no running water, it might be due to a water supply pipe leak that needs replacement.
 
