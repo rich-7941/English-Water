@@ -46,4 +46,4 @@ When a leak or burst pipe happens on your property, it can be stressful, and it'
 
 By using a certified contractor, you can be assured that the business you contact holds the correct qualifications, training, and Public and Employers Liability Insurance.
 
-###### Find a certified contractor
+###### [Find a certified contractor](https://www.certifiedcontractors.co.uk/)
