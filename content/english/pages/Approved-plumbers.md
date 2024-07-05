@@ -32,7 +32,7 @@ Using a WaterTrust-approved plumber will provide you with the following benefits
 
 ● Approved businesses must rectify their work if it fails to meet the Water Fittings Regulations enforced by the water supplier.
 
-Approved businesses are audited to ensure they comply with the scheme's rules.
+● Approved businesses are audited to ensure they comply with the scheme's rules.
 
 You should use a specialist water contractor to work on the underground pipe supplying your property up to the internal stop tap. These contractors are certified by the water industry to lay new pipes (also known as moling).
 
@@ -46,6 +46,6 @@ While the initial cost of a relay—replacing the damaged water supply pipe with
 
 When a leak or burst pipe happens on your property, it can be stressful, and it's essential you find someone trustworthy and reputable to help.
 
-By using an approved Water Contractor, you can be assured that the contractor you contact holds the correct qualifications, training, and Public and Employers Liability Insurance.
+By using a certified water contractor, you can be assured that the contractor you contact holds the correct qualifications, training, and Public and Employers Liability Insurance.
 
-###### Find an certified contractors
+###### Find a certified contractor
