@@ -90,4 +90,4 @@ If you have a lead water supply pipe, the only way to eliminate lead levels comp
 
 When your lead water supply pipe has been replaced, your WaterTrust certified contractor will also notify your water supplier because they are then legally required to replace the communication pipe on the public highway at their expense if it is made of lead and is at risk of contributing to the amount of lead in the drinking water supply.
 
-Find more information on WaterTrust certified contractors here.
+Find more information on WaterTrust certified contractors [here](/approved-plumbers).
