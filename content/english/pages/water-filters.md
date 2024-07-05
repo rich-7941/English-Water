@@ -72,7 +72,7 @@ There are several types of water filters for homes, each with its specific purpo
 
 - **Best for**: Softening water and removing specific heavy metals.
 
-**Choosing the right water filter**
+## Choosing the right water filter
 
 When selecting a water filter for your home, consider the following factors:
 
@@ -86,7 +86,7 @@ When selecting a water filter for your home, consider the following factors:
 
 5. **Budget**: Evaluate the initial cost and ongoing expenses to find a filter that fits your budget.
 
-**Installation and maintenance tips**
+## Installation and maintenance tips
 
 1. **Follow manufacturer instructions**: Always follow the installation and maintenance instructions provided by the manufacturer.
 
@@ -98,4 +98,4 @@ When selecting a water filter for your home, consider the following factors:
 
 Choosing the right home water filter can significantly improve the safety and quality of your drinking water. By understanding the different types of filters and your specific needs, you can make an informed decision to ensure clean, great-tasting water for you and your family.
 
-If lead contamination is a concern, replacing your lead water supply pipes is the only way to eliminate lead from your water. You can find more information and advice here.
+If lead contamination is a concern, replacing your lead water supply pipes is the only way to eliminate lead from your water. You can find more information and advice [here](/lead-pipes).
