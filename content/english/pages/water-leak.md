@@ -56,4 +56,4 @@ If the leak is outside your home but still on your property, you’ll need the s
 
 These contractors are WaterTrust certified, a mark of their expertise and commitment to quality. They work in compliance with UK Byelaws and Water Fittings Regulations, ensuring that your leak is handled professionally and in line with water industry standards.
 
-We recommend contacting a WaterTrust certified contractor.
+We recommend contacting a [WaterTrust certified contractor](/approved-plumbers).
