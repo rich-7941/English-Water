@@ -8,35 +8,33 @@ image20: "/images/logo-darkmode.png"
 
 # Certified contractors
 
-Find a reputable, trustworthy water contractor for your needs.
-
-We always recommend that you select an approved WaterTrust contractor.
-
-Anyone carrying out plumbing work in your home must ensure that your drinking water remains clean and safe to drink.
+Find a reputable, trustworthy water contractor for your needs. We always recommend that you select a certified WaterTrust contractor. Anyone carrying out plumbing work in your home must ensure that your drinking water remains clean and safe to drink.
 
 All pipework and fittings that are part of your water supply system should comply with the Water Supply (Water Fittings) Regulations 1999. Property owners, occupiers, and anyone working on the plumbing system have a legal duty to ensure the work meets these regulations. 
 
-Therefore, we recommend you select a plumber who is a member of WaterTrust.
+Therefore, we recommend you select a contractor who is a member of WaterTrust.
 
-Using a WaterTrust-approved plumber will provide you with the following benefits:
+Using a WaterTrust certified contractor will provide you with the following benefits:
 
-● Certified contractors are qualified to carry out plumbing work in homes and business premises. They comply with the Water Fittings Regulations, ensuring there is no risk from substandard installation or uncertified materials that could contaminate your drinking water supply.
 
-● They will issue a certificate for their work, certifying it complies with UK Water Regulations.
+●	Certified contractors are qualified to carry out water supply work in homes and business premises. They comply with the Water Fittings Regulations, ensuring there is no risk from substandard installation or uncertified materials that could contaminate your drinking water supply.
 
-● Certified contractors can carry out work without providing advance notification to your water supplier.
+●	They will issue a certificate for their work, certifying it complies with UK Water Regulations.
 
-● Approved businesses hold employers and public liability insurance.
+●	Certified contractors can carry out work without providing advance notification to your water supplier.
 
-● A complaints procedure is in place to resolve disputes about how the work has been carried out.
+●	Certified businesses hold employers and public liability insurance.
 
-● Approved businesses must rectify their work if it fails to meet the Water Fittings Regulations enforced by the water supplier.
+●	A complaints procedure is in place to resolve disputes about how the work has been carried out.
 
-● Approved businesses are audited to ensure they comply with the scheme's rules.
+●	Certified businesses must rectify their work if it fails to meet the Water Fittings Regulations enforced by the water supplier.
+
+●	Certified businesses are audited to ensure they comply with the scheme's rules.
+
 
 You should use a specialist water contractor to work on the underground pipe supplying your property up to the internal stop tap. These contractors are certified by the water industry to lay new pipes (also known as moling).
 
-These contractors are approved WaterTrust plumbers to carry out this type of work in compliance with the Water Fittings Regulations and Byelaws.
+These contractors are WaterTrust certified to carry out this type of work in compliance with the Water Fittings Regulations and Byelaws.
 
 You can be confident that they have the necessary skills, knowledge, experience, and training to work on water supply pipes within your property boundary in accordance with regulations.
 
@@ -46,6 +44,6 @@ While the initial cost of a relay—replacing the damaged water supply pipe with
 
 When a leak or burst pipe happens on your property, it can be stressful, and it's essential you find someone trustworthy and reputable to help.
 
-By using a certified water contractor, you can be assured that the contractor you contact holds the correct qualifications, training, and Public and Employers Liability Insurance.
+By using a certified contractor, you can be assured that the business you contact holds the correct qualifications, training, and Public and Employers Liability Insurance.
 
 ###### Find a certified contractor
