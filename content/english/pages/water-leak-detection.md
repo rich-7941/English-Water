@@ -52,4 +52,4 @@ Preventing water leaks involves regular maintenance and being proactive about po
 
 - **Install leak detection devices**: Consider installing smart leak detection devices which can alert you to leaks early, even when you're not at home.
 
-You can protect your home against water leaks by being aware of the common signs of leaks, using effective detection methods, and taking preventive measures. If you have a water leak, read more about what to do [here](/water-leak).
+You can protect your home against water leaks by being aware of the common signs of leaks, using effective detection methods, and taking preventive measures. If you have a water leak, read more about what to do [here](/water-leaks).

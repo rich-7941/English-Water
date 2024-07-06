@@ -32,4 +32,4 @@ If you still think your bill is high, you may have a leak. It’s important to r
 
 Should you find and fix a leak within 30 days, you may qualify for a leak allowance. You’ll need to provide a meter reading after the repair and another reading two weeks later.
 
-If you’ve ruled out dripping taps and leaking toilets, then you may have a water supply pipe leak. Follow our advice on how to check for a water supply pipe leak [here](/water-leak).
+If you’ve ruled out dripping taps and leaking toilets, then you may have a water supply pipe leak. Follow our advice on how to check for a water supply pipe leak [here](/water-leaks).

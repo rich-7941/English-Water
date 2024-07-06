@@ -63,4 +63,4 @@ If you have lead water supply pipes, replacing them is the only way to eliminate
 - Run the taps before using any water for cooking or drinking. Flushing through any water that has been standing in the pipes for several hours will mean the water you use is less likely to have absorbed lead.
 - Boiling water will not remove the lead from it.
 
-If you have a [lead water supply pipe](/lead-pipes), you can replace it with a modern MDPE pipe using a WaterTrust [certified contractor](/approved-plumbers). 
+If you have a [lead water supply pipe](/lead-pipes), you can replace it with a modern MDPE pipe using a WaterTrust [certified contractor](/certified-contractors). 

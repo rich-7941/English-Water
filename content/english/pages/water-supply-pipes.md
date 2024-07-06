@@ -44,6 +44,6 @@ This will ensure the work undertaken complies with UK Water Regulations and Byel
 
 WaterTrust certified contractors are specialists in installing new underground water supply pipes from the external public highway boundary up to the internal stop tap.
 
-Find a WaterTrust [certified contractor](/approved-plumbers).
+Find a WaterTrust [certified contractor](/certified-contractors).
 
 
