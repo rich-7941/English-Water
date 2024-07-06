@@ -544,13 +544,13 @@ nav {
 }
 
 /* Font Awesome */
-.fas,
-.fa-classic,
-.fa-solid,
-.far,
-.fa-regular {
-    font-family: 'Font Awesome 6 Free' !important;
-}
+// .fas,
+// .fa-classic,
+// .fa-solid,
+// .far,
+// .fa-regular {
+//     font-family: 'Font Awesome 6 Free' !important;
+// }
 
 /* Content Styles */
 .content :is(:where(a):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
