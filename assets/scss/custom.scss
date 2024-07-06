@@ -543,14 +543,9 @@ nav {
     margin-top: -5rem !important;
 }
 
-/* Font Awesome */
-// .fas,
-// .fa-classic,
-// .fa-solid,
-// .far,
-// .fa-regular {
-//     font-family: 'Font Awesome 6 Free' !important;
-// }
+.fa-chevron-down::before {
+    content: "" !important;
+}
 
 /* Content Styles */
 .content :is(:where(a):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
