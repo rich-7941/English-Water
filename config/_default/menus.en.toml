@@ -20,7 +20,7 @@ pageRef = "/Lead-pipe-replacement-scheme"
 [[main]]
 parent = "Your water supply"
 name = "Shared water supply"
-pageRef = "/Shared-water-supplies"
+pageRef = "/Shared-water-supply"
 
 [[main]]
 parent = "Your water supply"
@@ -70,7 +70,7 @@ pageRef = "/Developers"
 [[main]]
 parent = "Help and advice"
 name = "Approved plumbers"
-pageRef = "/Approved-plumbers"
+pageRef = "/certified-contractors"
 
 [[main]]
 parent = "Help and advice"
@@ -85,7 +85,7 @@ name = "Emergencies"
 [[main]]
 parent = "Emergencies"
 name = "Water leak"
-pageRef = "/water-leak"
+pageRef = "/water-leaks"
 
 [[main]]
 parent = "Emergencies"
